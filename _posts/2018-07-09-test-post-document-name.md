@@ -57,7 +57,7 @@ Links:
 [I'm an inline-style link](https://www.google.com)
 
 Images:
-![alt text](https://via.placeholder.com/1600/1200 "Title Text")
+![alt text](https://via.placeholder.com/1600x1200 "Title Text")
 
 Code blocks:
 
