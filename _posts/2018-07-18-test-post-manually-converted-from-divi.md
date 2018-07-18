@@ -1,6 +1,6 @@
 ---
 ID: 1907
-post_title: Test Post Manually Converted from Divi
+post_title: The Web Design and Development Process
 author: CMS
 post_excerpt: ""
 layout: post
@@ -30,25 +30,19 @@ The web design and development process shares several resemblances to the <a hr
 One of the most notable approaches that predates web development is the <a href="https://en.wikipedia.org/wiki/Waterfall_model">waterfall model</a>: a linear, step-by-step sequential process that is inherently flawed due to the fact that, like a waterfall, it only flows in one direction. Broken down into five phases, a typical waterfall process entails defining system requirements, designing, implementing/coding, testing, and maintaining.
 
 <img class="aligncenter size-full wp-image-1379" src="https://www.creativemedia.space/wp-content/uploads/2018/01/process-waterfall.gif" alt="A waterfall process" width="1500" height="330" />
-
-<em>A waterfall process</em>
-
+<p style="text-align: center;"><em>A waterfall process</em></p>
 In the text Usability for the Web (2002), Brinck, Gergle, and Wood illustrated a “Pervasive Usability Process” drafted specifically for web design and development. It consists of five phases that are sequential yet iterative through the process of continual evaluation. The five stages are requirements analysis, conceptual design, mockups and prototypes, production, and launch, and most closely resembles the Five D’s approach above.
 
 <img class="aligncenter size-full wp-image-1378" src="https://www.creativemedia.space/wp-content/uploads/2018/01/process-pervasive.gif" alt="Brinck, Gergle, and Wood’s 2001 Pervasive Usability Process" width="1500" height="524" />
-
-<em>Brinck, Gergle, and Wood’s 2001 Pervasive Usability Process</em>
-
+<p style="text-align: center;"><em>Brinck, Gergle, and Wood’s 2001 Pervasive Usability Process</em></p>
 In contrast to the waterfall model, other notable approaches are <a href="https://en.wikipedia.org/wiki/Iterative_design">iterative design</a> and <a href="https://en.wikipedia.org/wiki/Iterative_and_incremental_development">incremental development</a>, cyclical design and development processes that entail multiple rounds of designing, prototyping, testing, analyzing, and refining.
 
 <img class="aligncenter size-full wp-image-1377" src="https://www.creativemedia.space/wp-content/uploads/2018/01/process-iterative.gif" alt="An iterative process" width="1500" height="689" />
-
-<em>An iterative process</em>
-
+<p style="text-align: center;"><em>An iterative process</em></p>
 In recent years, the <a href="https://en.wikipedia.org/wiki/Agile_software_development">agile software development process</a> has had a big impact on web design and development. It embraces adaptive planning, evolutionary development, early delivery, and continuous improvement. Designed for speed, it encourages rapid and flexible responses to change throughout the process.
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-1376" src="https://www.creativemedia.space/wp-content/uploads/2018/01/process-iterative-modified.gif" alt="A combined iterative and incremental “5 D” process influenced by multiple models." width="1500" height="689" />
+<em>A combined iterative and incremental “5 D” process influenced by multiple models.</em></p>
 
-<img class="aligncenter size-full wp-image-1376" src="https://www.creativemedia.space/wp-content/uploads/2018/01/process-iterative-modified.gif" alt="A combined iterative and incremental “5 D” process influenced by multiple models." width="1500" height="689" />
-<em>A combined iterative and incremental “5 D” process influenced by multiple models.</em>
 <h2>Conclusion</h2>
 There is no one-size-fits-all web design and development process. However, there are several existing models to follow as frameworks that embrace different principles related to user-centered design.
 <h3>Related Resources and Reading</h3>
@@ -74,6 +68,10 @@ There is no one-size-fits-all web design and development process. However, there
 </li>
  	<li>Read IDF’s <a href="https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process">5 Stages in the Design Thinking Process</a></li>
 </ul>
+&nbsp;
+
+<hr />
+
 <h5>Author Notes</h5>
 <h6>This was written specifically to help aspiring web designers as they aim to:</h6>
 <ul>
