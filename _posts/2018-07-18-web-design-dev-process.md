@@ -5,7 +5,7 @@ author: CMS
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.creativemedia.space/test-post-manually-converted-from-divi/
+  https://www.creativemedia.space/web-design-dev-process/
 published: true
 post_date: 2018-07-18 18:42:01
 ---
