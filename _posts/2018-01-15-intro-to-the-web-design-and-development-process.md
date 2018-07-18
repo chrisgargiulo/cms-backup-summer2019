@@ -1,6 +1,6 @@
 ---
 ID: 1311
-post_title: The Web Design and Dev Process
+post_title: Intro to The Web Design Process
 author: Caroliner The Designer
 post_excerpt: ""
 layout: post
