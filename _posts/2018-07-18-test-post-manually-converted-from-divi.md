@@ -9,6 +9,7 @@ permalink: >
 published: true
 post_date: 2018-07-18 18:42:01
 ---
+<img class="aligncenter size-full wp-image-1313" src="https://www.creativemedia.space/wp-content/uploads/2018/01/webdesignprocess-4x2.gif" alt="The Web Design and Development Process" width="1500" height="750" />
 <h1>The Web Design and Development Process</h1>
 <h2>A User Centered Design Approach</h2>
 The web design and development process shares several resemblances to the <a href="https://en.wikipedia.org/wiki/Software_development_process">software development process</a> and <a href="https://en.wikipedia.org/wiki/Systems_development_life_cycle">systems development life cycle</a> and is influenced by the rich history and practice of related fields such as systems engineering and information science. Building upon several influential methodologies and preceding models, the following is a simple 5-Step process specifically for web design and development that embraces <a href="https://en.wikipedia.org/wiki/User-centered_design">User-centered design (UCD)</a>and consists of 5 D’s: <em>Define, Draft, Design, Develop, and Deliver.</em>
