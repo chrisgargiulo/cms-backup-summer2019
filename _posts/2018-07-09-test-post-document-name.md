@@ -9,7 +9,6 @@ permalink: >
 published: true
 post_date: 2018-07-09 20:54:34
 ---
-
 ![Placeholder Image](https://www.creativemedia.space/wp-content/uploads/2018/07/null.gif)
 
 # Test Post Title Revised via WP app on phone
@@ -58,25 +57,26 @@ Links:
 [I'm an inline-style link](https://www.google.com)
 
 Images:
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Title Text")
+![alt text](https://via.placeholder.com/1600/1200 "Title Text")
 
 Code blocks:
 
 ```html
-<h1>This is a H1</h1>
-<p>This is a paragraph</p>
-< a href="#">This is a link</a>
-<img src="img/image.gif" alt="alt text" title="title text">
+&lt;h1&gt;This is a H1&lt;/h1&gt;
+This is a paragraph
+
+&lt; a href=&quot;#&quot;&gt;This is a link
+&lt;img title=&quot;title text&quot; src=&quot;img/image.gif&quot; alt=&quot;alt text&quot; /&gt;
 ```
 
 ```css
 body {
-  font-size: 100%;
-  color: #333;
+font-size: 100%;
+color: #333;
 }
 ```
 
 ```javascript
-var s = "JavaScript syntax highlighting";
+var s = &quot;JavaScript syntax highlighting&quot;;
 alert(s);
 ```
