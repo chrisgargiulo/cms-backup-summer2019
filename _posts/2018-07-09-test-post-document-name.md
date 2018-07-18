@@ -1,6 +1,6 @@
 ---
 ID: 1830
-post_title: Test Post Document Name
+post_title: Test Post (Markdown) Document Name
 author: CMS
 post_excerpt: ""
 layout: post
@@ -12,9 +12,9 @@ post_date: 2018-07-09 20:54:34
 
 ![Placeholder Image](https://www.creativemedia.space/wp-content/uploads/2018/07/null.gif)
 
-# Test Post Title Revised via WP app on phone
+# Test Post Title Revised via VS Code
 
-## Test Post Subtitle Revised
+## Test Post Subtitle Revised to Content in Markdown Format
 
 # Test Post Heading 1
 
