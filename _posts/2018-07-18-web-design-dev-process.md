@@ -24,7 +24,6 @@ post_date: 2018-07-18 18:42:01
  	<li><strong>Develop</strong> – Build the interactive, fully functioning product using web standard compliant, accessible, valid, semantic markup, styling, and scripting.</li>
  	<li><strong>Deliver</strong> – Via due diligence, fix all bugs and conduct multiple tests for quality assurance across multiple platforms, browsers, devices, and screen-sizes.</li>
 </ol>
- 	<li></li>
 <h2>A Brief Backstory</h2><em>Preceding Influential Models</em>
 
 One of the most notable approaches that predates web development is the <a href="https://en.wikipedia.org/wiki/Waterfall_model">waterfall model</a>: a linear, step-by-step sequential process that is inherently flawed due to the fact that, like a waterfall, it only flows in one direction. Broken down into five phases, a typical waterfall process entails defining system requirements, designing, implementing/coding, testing, and maintaining.
@@ -42,7 +41,6 @@ In contrast to the waterfall model, other notable approaches are <a href="https
 In recent years, the <a href="https://en.wikipedia.org/wiki/Agile_software_development">agile software development process</a> has had a big impact on web design and development. It embraces adaptive planning, evolutionary development, early delivery, and continuous improvement. Designed for speed, it encourages rapid and flexible responses to change throughout the process.
 <p style="text-align: center"><img src="https://www.creativemedia.space/wp-content/uploads/2018/01/process-iterative-modified.gif" class="wp-image-1376 aligncenter size-full" height="689" alt="A combined iterative and incremental “5 D” process influenced by multiple models." width="1500">
 <em>A combined iterative and incremental “5 D” process influenced by multiple models.</em></p>
-<p style="text-align: center"><em></em></p>
 
 <h2>Conclusion</h2>There is no one-size-fits-all web design and development process. However, there are several existing models to follow as frameworks that embrace different principles related to user-centered design.
 <h3>Related Resources and Reading</h3>
@@ -79,6 +77,7 @@ In recent years, the <a href="https://en.wikipedia.org/wiki/Agile_software_deve
 </ul>
 </li>
 </ul>
+<h3></h3>
 <h3>Go Further</h3>
 <ul>
  	<li>Familiarize yourself with <a href="https://en.wikipedia.org/wiki/User-centered_design">User Centered Design</a><a href="https://www.interaction-design.org/literature/topics/user-centered-design">IDF’s User-centered Design</a></li>
@@ -89,7 +88,6 @@ In recent years, the <a href="https://en.wikipedia.org/wiki/Agile_software_deve
 </li>
  	<li>Read IDF’s <a href="https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process">5 Stages in the Design Thinking Process</a></li>
 </ul>
- 	<li><a href="https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process"></a></li>
 
 <hr>
 
