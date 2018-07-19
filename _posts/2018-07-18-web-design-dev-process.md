@@ -48,12 +48,7 @@ In recent years, the <a href="https://en.wikipedia.org/wiki/Agile_software_deve
  	<li>Via Wikipedia:</li>
  	<li>
 <ul>
- 	<li><a href="https://en.wikipedia.org/wiki/Software_development_process">Software development process</a></li>
-</ul>
-</li>
- 	<li>
-<ul>
- 	<li><a href="https://en.wikipedia.org/wiki/Agile_software_development">Agile software development</a></li>
+ 	<li><a href="https://en.wikipedia.org/wiki/Software_development_process">Software development process</a><a href="https://en.wikipedia.org/wiki/Agile_software_development">Agile software development</a></li>
 </ul>
 </li>
  	<li>
@@ -77,7 +72,6 @@ In recent years, the <a href="https://en.wikipedia.org/wiki/Agile_software_deve
 </ul>
 </li>
 </ul>
-<h3></h3>
 <h3>Go Further</h3>
 <ul>
  	<li>Familiarize yourself with <a href="https://en.wikipedia.org/wiki/User-centered_design">User Centered Design</a><a href="https://www.interaction-design.org/literature/topics/user-centered-design">IDF’s User-centered Design</a></li>
