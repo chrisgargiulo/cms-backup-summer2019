@@ -1,7 +1,7 @@
 ---
 ID: 1938
 post_title: Intro to Front-end Build Tools
-author: CMS
+author: Front-end Freddy
 post_excerpt: ""
 layout: post
 permalink: >
