@@ -9,11 +9,11 @@ permalink: >
 published: true
 post_date: 2017-10-31 01:03:24
 ---
-[et_pb_section bb_built="1" fullwidth="on" specialty="off" next_background_color="#000000"][et_pb_fullwidth_image _builder_version="3.0.85" src="https://www.creativemedia.space/wp-content/uploads/2017/10/nodenpm-4x1.gif" show_in_lightbox="off" url_new_window="off" use_overlay="off" /][/et_pb_section][et_pb_section bb_built="1" prev_background_color="#000000"][et_pb_row][et_pb_column type="4_4"][et_pb_text admin_label="Title - Single Column Narrow" _builder_version="3.0.106" background_layout="light" module_class="text-single-column-narrow"]
+[et_pb_section bb_built="1" fullwidth="on" specialty="off" next_background_color="#000000"][et_pb_fullwidth_image _builder_version="3.0.85" src="https://www.creativemedia.space/wp-content/uploads/2017/10/nodenpm-4x1.gif" show_in_lightbox="off" url_new_window="off" use_overlay="off" /][/et_pb_section][et_pb_section bb_built="1" prev_background_color="#000000"][et_pb_row][et_pb_column type="4_4"][et_pb_text admin_label="Title - Single Column Narrow" _builder_version="3.12.2" background_layout="light" module_class="text-single-column-narrow"]
 <h1>Introduction to Node.js and npm</h1>
 Package Management using npm
 
-[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row][et_pb_column type="4_4"][et_pb_text admin_label="Text - Single Column Narrow" _builder_version="3.0.106" background_layout="light" module_class="text-single-column-narrow"]
+[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row][et_pb_column type="4_4"][et_pb_text admin_label="Text - Single Column Narrow" _builder_version="3.12.2" background_layout="light" module_class="text-single-column-narrow"]
 <h3>Summary</h3>
 In this lesson, we will learn how to use the package manager <a href="https://www.npmjs.com/">npm</a>, a <a href="https://nodejs.org/en/">node.js</a> command line client, to setup a custom front-end web development environment and automated build process.
 <blockquote>A <strong>package manager</strong> (or package management system) is a collection of tools that automates the process of installing, upgrading, configuring, and removing software in a consistent manner.
