@@ -37,6 +37,18 @@ Front-end web development is mainly focused on three core client-side technologi
  	<li>Task Managers (e.g. Gulp)</li>
  	<li>Content Management Systems (e.g. Wordpress)</li>
 </ul>
+<h4>A Basic Example Workflow:</h4>
+<em>Using GitHub, GitHub Pages, &amp; Prepros</em>
+<ol>
+ 	<li>Setup a GitHub repo for your project (for version control)
+<ol>
+ 	<li>Setup your repo for GitHub pages (for free static hosting and auto-deployment)</li>
+</ol>
+</li>
+ 	<li>Clone your repo locally</li>
+ 	<li>Use Prepros to create, manage, and build your site using build tools such as a pre-processor (e.g. SASS for using variables, partials, etc.) and any other build tools/plugins (e.g. auto image optimization, templating, minifying, etc).</li>
+ 	<li>Push your code to your repo to save, back, and deploy all at once.</li>
+</ol>
 <h4>Front-end Related Reading &amp; Resources</h4>
 <ul>
  	<li>Reading:
