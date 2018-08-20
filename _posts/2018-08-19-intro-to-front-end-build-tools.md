@@ -14,6 +14,8 @@ post_date: 2018-08-19 17:17:03
 <h2>Preprocessing, Build tools, Version Control, and Content Management Systems</h2>
 <h3>Summary</h3>
 Front-end web development is mainly focused on three core client-side technologies, HTML, CSS and JavaScript. Each plays an important role during the final output/rendering of web sites and web pages. During the web development process, there are many other technologies, build tools, and workflows that are used by front-end web developers to help make the process easier, more manageable, flexible, scalable, more efficient, and more powerful. Many developers set up custom local development environments that include build tools and complex workflows across multiple projects. One of the many challenges faced by front-end developers is<em> how does one keep up with the rapidly changing workflows, tools, technologies, and techniques used in the industry?</em> There are multiple different ways to create the front-end of a website and the best practices are often times debated as new practices emerge and change frequently.
+
+&nbsp;
 <h4>Outcomes:</h4>
 <ul>
  	<li>Learn how to set up a custom front-end development environment and workflow</li>
