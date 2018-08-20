@@ -13,31 +13,44 @@ post_date: 2018-08-19 17:25:39
 
 [insert page='431' display='title']
 
-<p>&nbsp;</p>
+&nbsp;
 
-<p>[insert page='431' display='content']</p>
+[insert page='431' display='content']
 
-<p>&nbsp;</p>
+&nbsp;
+<figure><img src="https://imgs.xkcd.com/comics/git_2x.png" alt="Git Comic" /><figcaption>Git comic from <a href="https://xkcd.com/1597/">xkcd</a></figcaption></figure>
+&nbsp;
 
-<figure><img src="https://imgs.xkcd.com/comics/git_2x.png" alt="Git Comic"><p></p>
-<figcaption>Git comic from <a href="https://xkcd.com/1597/">xkcd</a></figcaption>
-</figure>
+<hr />
 
-
-<p>&nbsp;</p>
-<hr>
-<p>&nbsp;</p>
+&nbsp;
 <h3>Part One</h3>
-<p>[insert page='432' display='title']<br>[insert page='432' display='content']</p>
-<hr>
-<p>&nbsp;</p>
+[insert page='432' display='title']
+[insert page='432' display='content']
+
+<hr />
+
+&nbsp;
 <h3>Part Two</h3>
-<p>[insert page='433' display='title']<br>[insert page='433' display='content']</p>
-<hr>
-<p>&nbsp;</p>
+[insert page='433' display='title']
+[insert page='433' display='content']
+
+&nbsp;
+
+<hr />
+
+&nbsp;
 <h3>Part Three</h3>
-<p>[insert page='434' display='title']<br>[insert page='434' display='content']</p>
-<hr>
-<p>&nbsp;</p>
+[insert page='434' display='title']
+[insert page='434' display='content']
+
+&nbsp;
+
+<hr />
+
+&nbsp;
 <h4>Further Reading</h4>
-<p>[insert page='628' display='title']<br>[insert page='628' display='content']</p>
+[insert page='628' display='title']
+[insert page='628' display='content']
+
+&nbsp;
