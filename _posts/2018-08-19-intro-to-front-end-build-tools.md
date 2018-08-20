@@ -37,6 +37,11 @@ Front-end web development is mainly focused on three core client-side technologi
  	<li>Task Managers (e.g. Gulp)</li>
  	<li>Content Management Systems (e.g. Wordpress)</li>
 </ul>
+&nbsp;
+
+<hr />
+
+<h4><img class="aligncenter size-full wp-image-1964" src="https://www.creativemedia.space/wp-content/uploads/2018/08/github-sass-prepros.png" alt="" width="1600" height="400" /></h4>
 <h4>A Basic Example Workflow:</h4>
 <em>Using GitHub, GitHub Pages, &amp; Prepros</em>
 <ol>
@@ -47,6 +52,9 @@ Front-end web development is mainly focused on three core client-side technologi
  	<li>When finished working locally, commit/push your code to your GitHUb master repo to save, backup, and deploy your site.</li>
 </ol>
 &nbsp;
+
+<hr />
+
 <h4>A More Advanced Example Workflow:</h4>
 <em>Using GitHub, NPM, Gulp, &amp; Netlify</em>
 <ol>
@@ -57,6 +65,9 @@ Front-end web development is mainly focused on three core client-side technologi
  	<li>When finished working locally, commit/push your code to your GitHub master repo that will trigger a webhook to auto deploy your site to Netlify.</li>
 </ol>
 &nbsp;
+
+<hr />
+
 <h4>Front-end Related Reading &amp; Resources</h4>
 <ul>
  	<li>Reading:
@@ -99,6 +110,7 @@ Front-end web development is mainly focused on three core client-side technologi
 </ul>
 </li>
 </ul>
+&nbsp;
 <h4>Lesson-related:</h4>
 <ul>
  	<li>Demos/examples:
