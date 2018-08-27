@@ -28,6 +28,11 @@ post_date: 2018-08-27 22:36:26
 
 [/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row][et_pb_column type="4_4"][et_pb_text _builder_version="3.12.2"]
 
+<h3>Pinterest Board of Inspiration Examples</h3>
+[fts_pinterest type=single_board_pins pinterest_name=chrisgargiulo board_id=inspiration-examples pins_count=6]
+
+[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row][et_pb_column type="4_4"][et_pb_text _builder_version="3.12.2"]
+
 <hr />
 
 Illustration credit: <a href="https://twitter.com/ninalimpi">Katerina Limpitsouni</a> via <a href="https://undraw.co">Undraw</a>
