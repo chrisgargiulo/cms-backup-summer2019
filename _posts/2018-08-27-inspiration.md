@@ -32,11 +32,7 @@ post_date: 2018-08-27 22:36:26
  	<li><a href="https://www.pinterest.com/chrisgargiulo/inspiration-examples/">Chris's Inspiration Examples</a></li>
 </ul>
 
-[/et_pb_text][et_pb_code _builder_version="3.12.2"]&lt;a data-pin-do=&quot;embedBoard&quot; data-pin-board-width=&quot;400&quot; data-pin-scale-height=&quot;240&quot; data-pin-scale-width=&quot;80&quot; href=&quot;https://www.pinterest.com/chrisgargiulo/inspiration-examples/&quot;&gt;&lt;/a&gt;&lt;!-- [et_pb_line_break_holder] --&gt;&lt;script async defer src=&quot;https://assets.pinterest.com/js/pinit.js&quot;&gt;&lt;/script&gt;[/et_pb_code][et_pb_text _builder_version="3.12.2"]
-
-[fts_pinterest type=single_board_pins pinterest_name=chrisgargiulo board_id=inspiration-examples pins_count=6]
-
-[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row][et_pb_column type="4_4"][et_pb_text _builder_version="3.12.2"]
+[/et_pb_text][et_pb_code _builder_version="3.12.2"]&lt;a data-pin-do=&quot;embedBoard&quot; data-pin-board-width=&quot;400&quot; data-pin-scale-height=&quot;240&quot; data-pin-scale-width=&quot;80&quot; href=&quot;https://www.pinterest.com/chrisgargiulo/inspiration-examples/&quot;&gt;&lt;/a&gt;&lt;!-- [et_pb_line_break_holder] --&gt;&lt;script async defer src=&quot;https://assets.pinterest.com/js/pinit.js&quot;&gt;&lt;/script&gt;[/et_pb_code][/et_pb_column][/et_pb_row][et_pb_row][et_pb_column type="4_4"][et_pb_text _builder_version="3.12.2"]
 
 <hr />
 
