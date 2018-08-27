@@ -13,6 +13,10 @@ post_date: 2018-08-27 22:36:26
 <h1>Design Inspiration</h1>
 <h2>Be Inspired by Great Design and Designers</h2>
 
+Below is a list of past student projects:
+
+[display-posts post_type="event" image_size="thumbnail" posts_per_page="999"]
+
 Below is a list of inspiration related resources:
 
 [display-posts category="inspiration" image_size="thumbnail" wrapper_class="display-posts-thumblisting" posts_per_page="999"]
