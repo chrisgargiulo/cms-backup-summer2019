@@ -27,7 +27,7 @@ post_date: 2018-08-27 22:36:26
 <ul>
  	<li><a href="https://www.pinterest.com/chrisgargiulo/inspiration-examples/">Chris's Inspiration Examples</a></li>
 </ul>
-[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row][et_pb_column type="4_4"][et_pb_text _builder_version="3.12.2"]
+[/et_pb_text][et_pb_code _builder_version="3.12.2"]&lt;a data-pin-do="embedBoard" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://www.pinterest.com/chrisgargiulo/inspiration-examples/"&gt;&lt;/a&gt;&lt;!-- [et_pb_line_break_holder] --&gt;&lt;script async defer src="https://assets.pinterest.com/js/pinit.js"&gt;&lt;/script&gt;[/et_pb_code][/et_pb_column][/et_pb_row][et_pb_row][et_pb_column type="4_4"][et_pb_text _builder_version="3.12.2"]
 
 <hr />
 
