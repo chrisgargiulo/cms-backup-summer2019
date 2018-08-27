@@ -18,9 +18,6 @@ post_date: 2018-08-27 22:36:26
 [/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row][et_pb_column type="1_2"][et_pb_text _builder_version="3.12.2"]
 
 <h3>Student projects</h3>
-[display-posts post_type="project" image_size="thumbnail" wrapper_class="display-posts-thumblisting" posts_per_page="999"]
-
-Test:
 [display-posts post_type="project" taxonomy="project_category" tax_term="student-project" image_size="thumbnail" wrapper_class="display-posts-thumblisting" posts_per_page="999"]
 
 [/et_pb_text][/et_pb_column][et_pb_column type="1_2"][et_pb_text _builder_version="3.12.2"]
