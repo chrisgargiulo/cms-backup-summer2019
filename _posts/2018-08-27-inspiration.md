@@ -15,7 +15,7 @@ post_date: 2018-08-27 22:36:26
 
 Below is a list of past student projects:
 
-[display-posts post_type="event" image_size="thumbnail" posts_per_page="999"]
+[display-posts post_type="project" image_size="thumbnail" posts_per_page="999"]
 
 Below is a list of inspiration related resources:
 
