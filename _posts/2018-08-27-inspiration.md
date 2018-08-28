@@ -1,7 +1,7 @@
 ---
 ID: 1972
 post_title: Inspiration
-author: CMS
+author: GUI Louie
 post_excerpt: ""
 layout: post
 permalink: >
