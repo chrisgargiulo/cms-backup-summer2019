@@ -1,7 +1,7 @@
 ---
 ID: 1945
 post_title: Intro to SASS via Prepros
-author: CMS
+author: Front-end Freddy
 post_excerpt: ""
 layout: post
 permalink: >
