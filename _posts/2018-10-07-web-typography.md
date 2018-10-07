@@ -40,7 +40,7 @@ When using web fonts, be sure to include all weights and styles for each typefac
 &nbsp;
 <h3>Exercises:</h3>
 <h5>Try using a typographic scale for your headings and paragraphs</h5>
-[codepen_embed height="265" theme_id="0" slug_hash="XxNmLY" default_tab="html,result" user="kccnma"]See the Pen &lt;a href='https://codepen.io/kccnma/pen/XxNmLY/'&gt;Base Typography with a Traditional Typographic Scale&lt;/a&gt; by kccnma (&lt;a href='https://codepen.io/kccnma'&gt;@kccnma&lt;/a&gt;) on &lt;a href='https://codepen.io'&gt;CodePen&lt;/a&gt;.[/codepen_embed]
+[codepen_embed height="265" theme_id="0" slug_hash="MqWVgB" default_tab="html,result" user="johndoenma"]See the Pen &lt;a href='https://codepen.io/johndoenma/pen/MqWVgB/'&gt;Typographic Hierarchy&lt;/a&gt; by John Doe (&lt;a href='https://codepen.io/johndoenma'&gt;@johndoenma&lt;/a&gt;) on &lt;a href='https://codepen.io'&gt;CodePen&lt;/a&gt;.[/codepen_embed]
 <h5>Try to design a bespoke type specimen by starting with nothing but unstyled HTML Markup</h5>
 [codepen_embed height="265" theme_id="0" slug_hash="xYJwQx" default_tab="html,result" user="kccnma"]See the Pen <a href="https://codepen.io/kccnma/pen/xYJwQx/">Typography Specimen Test - Incomplete</a> by kccnma (<a href="https://codepen.io/kccnma">@kccnma</a>) on <a href="https://codepen.io">CodePen</a>.[/codepen_embed]
 
