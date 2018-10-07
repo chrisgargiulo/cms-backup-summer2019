@@ -5,7 +5,7 @@ author: CMS
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.creativemedia.space/layout-2/
+  https://www.creativemedia.space/web-typography/
 published: true
 post_date: 2018-10-07 19:39:42
 ---
