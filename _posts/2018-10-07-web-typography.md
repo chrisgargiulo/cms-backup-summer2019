@@ -32,25 +32,35 @@ To provide an equally enjoyable reading experience on small devices and larger s
 <script src="https://gist.github.com/kccnma/e32d852b0ff8c4533916ecdf871bb77b.js"></script>
 <h5>When Using Webfonts, Avoid Faux Bold &amp; Italic</h5>
 When using web fonts, be sure to include all weights and styles for each typeface. For example, look closely at your bold and italics to ensure that the correct font is being used. This is important to avoid the browser rendering faux bold and faux italics.
+
+&nbsp;
+
+<hr />
+
+&nbsp;
 <h3>Exercises:</h3>
-<h4>Try using a typographic scale for your headings and paragraphs</h4>
+<h5>Try using a typographic scale for your headings and paragraphs</h5>
 [codepen_embed height="265" theme_id="0" slug_hash="XxNmLY" default_tab="html,result" user="kccnma"]See the Pen &lt;a href='https://codepen.io/kccnma/pen/XxNmLY/'&gt;Base Typography with a Traditional Typographic Scale&lt;/a&gt; by kccnma (&lt;a href='https://codepen.io/kccnma'&gt;@kccnma&lt;/a&gt;) on &lt;a href='https://codepen.io'&gt;CodePen&lt;/a&gt;.[/codepen_embed]
-<h4>Try to design a bespoke type specimen by starting with nothing but unstyled HTML Markup</h4>
+<h5>Try to design a bespoke type specimen by starting with nothing but unstyled HTML Markup</h5>
 [codepen_embed height="265" theme_id="0" slug_hash="xYJwQx" default_tab="html,result" user="kccnma"]See the Pen <a href="https://codepen.io/kccnma/pen/xYJwQx/">Typography Specimen Test - Incomplete</a> by kccnma (<a href="https://codepen.io/kccnma">@kccnma</a>) on <a href="https://codepen.io">CodePen</a>.[/codepen_embed]
 
 Note how the browser ignores line breaks.
-<h4>Here's an example of a bespoke type specimen</h4>
+<h5>Here's an example of a bespoke type specimen</h5>
 [codepen_embed height="265" theme_id="0" slug_hash="WMYdEZ" default_tab="html,result" user="kccnma"]See the Pen <a href="https://codepen.io/kccnma/pen/WMYdEZ/">Typography Specimen Test - Example #1</a> by kccnma (<a href="https://codepen.io/kccnma">@kccnma</a>) on <a href="https://codepen.io">CodePen</a>.[/codepen_embed]
 
 Note the use of Google Fonts.
-
-Experiment with different font pairings by doing a coded type studies
-
+<h5>Experiment with different font pairings by doing a coded type studies</h5>
 [codepen_embed height="362" theme_id="0" slug_hash="eVKLmO" default_tab="result" user="kccnma"]See the Pen &lt;a href='https://codepen.io/kccnma/pen/eVKLmO/'&gt;Type Pairing Test&lt;/a&gt; by kccnma (&lt;a href='https://codepen.io/kccnma'&gt;@kccnma&lt;/a&gt;) on &lt;a href='https://codepen.io'&gt;CodePen&lt;/a&gt;.[/codepen_embed]
 
 [codepen_embed height="381" theme_id="0" slug_hash="NLYMpV" default_tab="result" user="kccnma"]See the Pen &lt;a href='https://codepen.io/kccnma/pen/NLYMpV/'&gt;Type Study: Google Font Pairings&lt;/a&gt; by kccnma (&lt;a href='https://codepen.io/kccnma'&gt;@kccnma&lt;/a&gt;) on &lt;a href='https://codepen.io'&gt;CodePen&lt;/a&gt;.[/codepen_embed]
 
 [codepen_embed height="474" theme_id="0" slug_hash="MQXqRe" default_tab="result" user="kccnma"]See the Pen &lt;a href='https://codepen.io/kccnma/pen/MQXqRe/'&gt;Type Set Test&lt;/a&gt; by kccnma (&lt;a href='https://codepen.io/kccnma'&gt;@kccnma&lt;/a&gt;) on &lt;a href='https://codepen.io'&gt;CodePen&lt;/a&gt;.[/codepen_embed]
+
+&nbsp;
+
+<hr />
+
+&nbsp;
 <h3>Related Resources and Reading</h3>
 <ul>
  	<li>Online CDN's &amp;Sources for Webfonts:
