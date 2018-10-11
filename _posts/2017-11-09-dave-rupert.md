@@ -9,4 +9,4 @@ permalink: >
 published: true
 post_date: 2017-11-09 06:26:22
 ---
-Lead developer at Paravel. Co-host of the podcast ShopTalk with Chris Coyier.
+<a href="https://daverupert.com/">Dave Rupert</a> is a lead developer at <a href="https://paravelinc.com/">Paravel</a>. Co-host of the podcast <a href="https://shoptalkshow.com/">ShopTalk</a> with <a href="https://chriscoyier.net/">Chris Coyier</a>.
