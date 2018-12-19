@@ -9,8 +9,7 @@ permalink: >
 published: true
 post_date: 2018-02-22 17:50:05
 ---
-<!-- wp:divi/placeholder -->
-[et_pb_section fb_built="1" _builder_version="3.0.47"][et_pb_row _builder_version="3.0.47" background_size="initial" background_position="top_left" background_repeat="repeat"][et_pb_column type="4_4" _builder_version="3.0.47" parallax="off" parallax_method="on"][et_pb_image src="https://www.creativemedia.space/wp-content/uploads/2018/02/portfolio-4x2.gif" _builder_version="3.0.101"][/et_pb_image][/et_pb_column][/et_pb_row][et_pb_row _builder_version="3.0.47" background_size="initial" background_position="top_left" background_repeat="repeat"][et_pb_column type="4_4" _builder_version="3.0.47" parallax="off" parallax_method="on"][et_pb_text admin_label="Running Head" module_class="articlerunninghead text-single-column-narrow" _builder_version="3.0.101"]Exercise
+[et_pb_section fb_built="1" _builder_version="3.0.47"][et_pb_row _builder_version="3.0.47" background_size="initial" background_position="top_left" background_repeat="repeat"][et_pb_column type="4_4" _builder_version="3.0.47" parallax="off" parallax_method="on"][et_pb_image src="https://www.creativemedia.space/wp-content/uploads/2018/02/portfolio-featured.gif" _builder_version="3.18.8"][/et_pb_image][/et_pb_column][/et_pb_row][et_pb_row _builder_version="3.0.47" background_size="initial" background_position="top_left" background_repeat="repeat"][et_pb_column type="4_4" _builder_version="3.0.47" parallax="off" parallax_method="on"][et_pb_text admin_label="Running Head" module_class="articlerunninghead text-single-column-narrow" _builder_version="3.0.101"]Exercise
 [/et_pb_text][et_pb_text admin_label="Title and Subtitle" module_class="lesson-summary text-single-column-narrow" _builder_version="3.0.101" module_alignment="center"]<h1>Create a Simple Portfolio Site</h1>
 <h2>Display your work by coding an online portfolio site from scratch</h2>
 [/et_pb_text][et_pb_post_title title="off" date="off" comments="off" featured_image="off" module_class="lesson-summary text-single-column-narrow" _builder_version="3.0.92"][/et_pb_post_title][et_pb_text admin_label="Introduction Summary and Outcomes" module_class="lesson-summary text-single-column-narrow" _builder_version="3.0.101"]There are many different ways to share your work online. If you are a web designer with front-end web development skills looking to showcase your talent, one of the best ways is to custom design and code your own portfolio site from scratch.
@@ -111,4 +110,3 @@ Coding your online portfolio is never an easy task. There are so many ways to pr
  	<li>Synthesize the concepts and skills garnered as a designer and front-end web developer by showcasing a culmination of projects in a custom designed and coded bespoke interface that integrates conceptual thinking and aesthetic application.</li>
 </ul>
 [/et_pb_toggle][/et_pb_column][/et_pb_row][/et_pb_section]
-<!-- /wp:divi/placeholder -->
