@@ -9,119 +9,116 @@ permalink: >
 published: true
 post_date: 2017-08-23 20:56:46
 ---
-[et_pb_section bb_built="1" fullwidth="on" specialty="off"][et_pb_fullwidth_header _builder_version="3.0.86" title="All Creative Media Resources" background_color="#eeeeee" text_orientation="center" header_fullscreen="off" header_scroll_down="off" image_orientation="center" background_layout="light" content_orientation="center" custom_button_two="off" button_two_icon_placement="right" custom_button_one="off" button_one_icon_placement="right" max_width_tablet="50px" /][/et_pb_section][et_pb_section bb_built="1" _builder_version="3.0.85" module_id="resources" global_module="619"][et_pb_row global_parent="619" _builder_version="3.0.75"][et_pb_column type="1_4"][et_pb_text admin_label="Lessons" global_parent="619" _builder_version="3.0.89" background_layout="light" module_alignment="left"]
+<!-- wp:heading {"align":"center","className":"cms-page-title"} -->
+<h2 style="text-align:center" class="cms-page-title">Creative Exploration</h2>
+<!-- /wp:heading -->
 
-<h3>Lessons</h3>
-[display-posts post_type="post" category="lessons" image_size="thumbnail" wrapper_class="display-posts-thumblisting" order="ASC" orderby="menu_order"][display-posts post_type="page" post_parent="267" image_size="thumbnail" wrapper_class="display-posts-thumblisting" order="ASC" orderby="menu_order"]
+<!-- wp:paragraph {"align":"center","className":"narrow-centered"} -->
+<p style="text-align:center" class="narrow-centered">The creative media resources on this site are continually growing and expanding, just like the tools, technologies, and best practices used by industry professionals, so please feel free to mark this page as your base camp.</p>
+<!-- /wp:paragraph -->
 
-[/et_pb_text][/et_pb_column][et_pb_column type="1_4"][et_pb_text admin_label="Books" global_parent="619" _builder_version="3.0.75" background_layout="light" border_style="solid" module_alignment="left"]
+<!-- wp:spacer {"height":60} -->
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
 
-<h3><a href="/category/books/">Books</a></h3>
-[display-posts category="books" image_size="thumbnail" wrapper_class="display-posts-thumblisting"]
+<!-- wp:uagb/advanced-heading {"block_id":"32078d5a-f743-4703-a924-537a734d3ef6","headingTag":"h3"} -->
+<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-32078d5a-f743-4703-a924-537a734d3ef6"><h3 class="uagb-heading-text"><a href="https://www.creativemedia.space/lessons/">Creative Media Related Lessons</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
+<!-- /wp:uagb/advanced-heading -->
 
-[/et_pb_text][/et_pb_column][et_pb_column type="1_4"][et_pb_text admin_label="Blogs" global_parent="619" _builder_version="3.0.75" background_layout="light" border_style="solid" module_alignment="left"]
+<!-- wp:uagb/post-grid {"block_id":"e146f70d-925c-49ab-9f4a-0d6b7227602f","categories":"52","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"displayPostLink":false,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
 
-<h3><a href="/category/blogs/">Blogs</a></h3>
-[display-posts category="blogs" image_size="thumbnail" wrapper_class="display-posts-thumblisting"]
+<!-- wp:uagb/advanced-heading {"block_id":"d4bbcf30-aa77-4cac-8b2c-878622d298b2","headingTag":"h3"} -->
+<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-d4bbcf30-aa77-4cac-8b2c-878622d298b2"><h3 class="uagb-heading-text"><a href="/category/assignments/">Creative Media Related Assignments</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
+<!-- /wp:uagb/advanced-heading -->
 
-[/et_pb_text][/et_pb_column][et_pb_column type="1_4"][et_pb_text admin_label="Resources" global_parent="619" _builder_version="3.0.86" background_layout="light" module_alignment="left"]
+<!-- wp:uagb/post-grid {"block_id":"02125eee-9975-4707-8951-da0dc5227945","categories":"70","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"displayPostLink":false,"columns":4,"tcolumns":3,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
 
-<h3><a href="/category/resources/">Resources</a></h3>
-[display-posts category="resources" image_size="thumbnail" wrapper_class="display-posts-thumblisting"]
+<!-- wp:uagb/advanced-heading {"block_id":"4a1172d5-7ec0-4852-94da-3cd6784b6ce1","headingTag":"h3"} -->
+<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-4a1172d5-7ec0-4852-94da-3cd6784b6ce1"><h3 class="uagb-heading-text"><a href="/category/exercise/">Creative Media Related Exercises</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
+<!-- /wp:uagb/advanced-heading -->
 
-[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row global_parent="619" background_position="top_left" background_repeat="repeat" background_size="initial"][et_pb_column type="1_4"][et_pb_text admin_label="Podcasts" global_parent="619" _builder_version="3.0.75" background_layout="light" border_style="solid" module_alignment="left"]
+<!-- wp:uagb/post-grid {"block_id":"efcd868d-c7ab-4662-9c3f-5cb82ec36fe6","categories":"69","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"displayPostLink":false,"columns":4,"tcolumns":3,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
 
-<h3><a href="/category/podcasts/">Podcasts</a></h3>
-[display-posts category="podcasts" image_size="thumbnail" wrapper_class="display-posts-thumblisting"]
+<!-- wp:uagb/advanced-heading {"block_id":"9970e34b-1d2c-4286-b558-c799ce895c83","headingTag":"h3"} -->
+<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-9970e34b-1d2c-4286-b558-c799ce895c83"><h3 class="uagb-heading-text"><a href="/category/featured/">Featured Creative Media Related Links &amp; Resources</a> </h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
+<!-- /wp:uagb/advanced-heading -->
 
-[/et_pb_text][/et_pb_column][et_pb_column type="1_4"][et_pb_text admin_label="Newsletters" global_parent="619" _builder_version="3.0.75" background_layout="light" border_style="solid" module_alignment="left"]
+<!-- wp:uagb/post-grid {"block_id":"8f86df86-260e-4ce9-8daa-f325bc7009ca","categories":"47","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"displayPostLink":false,"columns":4,"tcolumns":3,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
 
-<h3><a href="/category/newsletters/">Newsletters</a></h3>
-[display-posts category="newsletters" image_size="thumbnail" wrapper_class="display-posts-thumblisting"]
+<!-- wp:uagb/advanced-heading {"block_id":"b3685448-44b5-4d52-a40d-4302270a53c2","headingTag":"h3"} -->
+<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-b3685448-44b5-4d52-a40d-4302270a53c2"><h3 class="uagb-heading-text"><a href="/category/books/">Creative Media Related Books</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
+<!-- /wp:uagb/advanced-heading -->
 
-[/et_pb_text][/et_pb_column][et_pb_column type="1_4"][et_pb_text admin_label="Stock Photos" global_parent="619" _builder_version="3.0.75" background_layout="light" border_style="solid" module_alignment="left"]
+<!-- wp:uagb/post-grid {"block_id":"705c15bc-24d6-4961-ae32-8f9748ffbf3f","categories":"30","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"imgSize":"thumbnail","displayPostLink":false,"columns":4,"tcolumns":3,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
 
-<h3><a href="/category/stock-photography/">Stock Photography</a></h3>
-[display-posts category="stock-photography" image_size="thumbnail" wrapper_class="display-posts-thumblisting"]
+<!-- wp:uagb/advanced-heading {"block_id":"1eaf0175-dc91-41e9-b84c-55a25a13368d","headingTag":"h3"} -->
+<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-1eaf0175-dc91-41e9-b84c-55a25a13368d"><h3 class="uagb-heading-text"><a href="/category/people/">Creative Media Related People</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
+<!-- /wp:uagb/advanced-heading -->
 
-[/et_pb_text][/et_pb_column][et_pb_column type="1_4"][et_pb_text admin_label="Other" global_parent="619" _builder_version="3.0.86" background_layout="light" module_alignment="left"]
+<!-- wp:uagb/post-grid {"block_id":"c0abb9eb-600e-4a05-aa2b-74a75285aa3c","categories":"71","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"imgSize":"thumbnail","displayPostLink":false,"columns":4,"tcolumns":3,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
 
-<h3><a href="/category/other/">Others (uncategorized)</a></h3>
-[display-posts category="other"]
+<!-- wp:uagb/advanced-heading {"block_id":"d05a23ee-758b-40d3-a909-90fbe1819969","headingTag":"h3"} -->
+<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-d05a23ee-758b-40d3-a909-90fbe1819969"><h3 class="uagb-heading-text"><a href="/category/blogs/">Creative Media Related Blogs</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
+<!-- /wp:uagb/advanced-heading -->
 
-[/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section][et_pb_section bb_built="1" fullwidth="on" specialty="off"][et_pb_fullwidth_header _builder_version="3.0.92" title="Student Work" background_color="#eeeeee" text_orientation="center" header_fullscreen="off" header_scroll_down="off" image_orientation="center" background_layout="light" content_orientation="center" custom_button_two="off" button_two_icon_placement="right" custom_button_one="off" button_one_icon_placement="right" background_position="top_left" background_repeat="repeat" background_size="initial" /][/et_pb_section][et_pb_section bb_built="1" fullwidth="off" specialty="off"][et_pb_row][et_pb_column type="4_4"][et_pb_blurb _builder_version="3.0.92" title="Student Project Examples" url_new_window="off" use_icon="off" use_circle="off" use_circle_border="off" icon_placement="top" use_icon_font_size="off" background_layout="light" font_icon="%%255%%" icon_color="#000000" text_orientation="center" /][et_pb_filterable_portfolio _builder_version="3.0.92" show_title="on" show_categories="on" show_pagination="on" fullwidth="off" zoom_icon_color="#2ea3f2" hover_overlay_color="rgba(255,255,255,0.9)" background_layout="light" pagination_font_size_tablet="51" pagination_line_height_tablet="2" posts_number="40" include_categories="60" /][/et_pb_column][/et_pb_row][et_pb_row][et_pb_column type="4_4"][et_pb_blurb _builder_version="3.0.92" title="Student Assignment Examples" url_new_window="off" use_icon="off" use_circle="off" use_circle_border="off" icon_placement="top" use_icon_font_size="off" background_layout="light" font_icon="%%290%%" icon_color="#000000" text_orientation="center" /][et_pb_filterable_portfolio _builder_version="3.0.92" show_title="on" show_categories="on" show_pagination="on" fullwidth="off" zoom_icon_color="#2ea3f2" hover_overlay_color="rgba(255,255,255,0.9)" background_layout="light" pagination_font_size_tablet="51" pagination_line_height_tablet="2" posts_number="40" include_categories="67" /][/et_pb_column][/et_pb_row][/et_pb_section][et_pb_section bb_built="1" fullwidth="on" specialty="off" _builder_version="3.0.92" custom_css_main_element="display: none;"][et_pb_fullwidth_header _builder_version="3.0.86" title="Typography-Related Resources" background_color="#eeeeee" text_orientation="center" header_fullscreen="off" header_scroll_down="off" image_orientation="center" background_layout="light" content_orientation="center" custom_button_two="off" button_two_icon_placement="right" custom_button_one="off" button_one_icon_placement="right" background_position="top_left" background_repeat="repeat" background_size="initial" /][/et_pb_section][et_pb_section bb_built="1" _builder_version="3.0.92" module_id="resources" custom_css_main_element="display: none;"][et_pb_row][et_pb_column type="1_4"][et_pb_text admin_label="Blogs" _builder_version="3.0.86" background_layout="light" module_alignment="left"]
+<!-- wp:uagb/post-grid {"block_id":"5a107cd6-467b-405b-bb84-fb4c0a8f3703","categories":"29","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"imgSize":"thumbnail","displayPostLink":false,"columns":4,"tcolumns":3,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
 
-<h3><a href="/category/blogs/">Blogs</a></h3>
-[display-posts category="blogs" tag="typography" image_size="thumbnail" wrapper_class="display-posts-thumblisting"]
+<!-- wp:uagb/advanced-heading {"block_id":"df3809ff-acec-41ec-a5a9-c40d3aab3f15","headingTag":"h3"} -->
+<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-df3809ff-acec-41ec-a5a9-c40d3aab3f15"><h3 class="uagb-heading-text"><a href="/category/podcasts/">Creative Media Related Podcasts</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
+<!-- /wp:uagb/advanced-heading -->
 
-[/et_pb_text][/et_pb_column][et_pb_column type="1_4"][et_pb_text admin_label="Newsletters" _builder_version="3.0.86" background_layout="light" module_alignment="left"]
+<!-- wp:uagb/post-grid {"block_id":"1fd48aec-c1f0-46f6-bb32-b4d1c087420a","categories":"26","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"imgSize":"thumbnail","displayPostLink":false,"columns":4,"tcolumns":3,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
 
-<h3><a href="/category/newsletters/">Newsletters</a></h3>
-[display-posts category="newsletters" tag="typography" image_size="thumbnail" wrapper_class="display-posts-thumblisting"]
+<!-- wp:uagb/advanced-heading {"block_id":"6ae631f2-7cbd-4e3e-b596-d52446f7ed4a","headingTag":"h3"} -->
+<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-6ae631f2-7cbd-4e3e-b596-d52446f7ed4a"><h3 class="uagb-heading-text"><a href="/category/newsletters/">Creative Media Related Newsletters</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
+<!-- /wp:uagb/advanced-heading -->
 
-[/et_pb_text][/et_pb_column][et_pb_column type="1_4"][et_pb_text admin_label="Podcasts" _builder_version="3.0.86" background_layout="light" module_alignment="left"]
+<!-- wp:uagb/post-grid {"block_id":"ca5b07e3-b2dd-4c1a-93ce-16da0cd41e4b","categories":"28","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"imgSize":"thumbnail","displayPostLink":false,"columns":4,"tcolumns":3,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
 
-<h3><a href="/category/podcasts/">Podcasts</a></h3>
-[display-posts category="podcasts" tag="typography" image_size="thumbnail" wrapper_class="display-posts-thumblisting"]
+<!-- wp:uagb/advanced-heading {"block_id":"b47c1b75-66b9-4b44-a748-27eefc5b7c2b","headingTag":"h3"} -->
+<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-b47c1b75-66b9-4b44-a748-27eefc5b7c2b"><h3 class="uagb-heading-text"><a href="/category/stock-photography/">Creative Media Related Stock Assets</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
+<!-- /wp:uagb/advanced-heading -->
 
-[/et_pb_text][/et_pb_column][et_pb_column type="1_4"][et_pb_text admin_label="Books" _builder_version="3.0.86" background_layout="light" module_alignment="left"]
+<!-- wp:uagb/post-grid {"block_id":"c1f81fa1-20cd-433e-a0d3-47b50f34ac5a","categories":"38","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"imgSize":"thumbnail","displayPostLink":false,"columns":4,"tcolumns":3,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
 
-<h3><a href="/category/books/">Books</a></h3>
-[display-posts category="books" tag="typography" image_size="thumbnail" wrapper_class="display-posts-thumblisting"]
+<!-- wp:uagb/advanced-heading {"block_id":"a957809f-7874-47dd-858b-6affa1284932","headingTag":"h3"} -->
+<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-a957809f-7874-47dd-858b-6affa1284932"><h3 class="uagb-heading-text"><a href="/category/front-end-tools/">Front-end Tools</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
+<!-- /wp:uagb/advanced-heading -->
 
-[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row][et_pb_column type="1_4"][et_pb_text admin_label="Resources" _builder_version="3.0.86" background_layout="light" module_alignment="left"]
+<!-- wp:uagb/post-grid {"block_id":"28805df1-9681-451d-ad47-dbe9a9a011dd","categories":"32","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"imgSize":"thumbnail","displayPostLink":false,"columns":4,"tcolumns":3,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
 
-<h3><a href="/category/resources/">Resources</a></h3>
-[display-posts category="resources" tag="typography" image_size="thumbnail" wrapper_class="display-posts-thumblisting"]
+<!-- wp:uagb/advanced-heading {"block_id":"1890606d-5770-4d4f-91a4-e9409d7b7f32","headingTag":"h3"} -->
+<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-1890606d-5770-4d4f-91a4-e9409d7b7f32"><h3 class="uagb-heading-text"><a href="/category/inspiration/">Creative Media Related Inspiration</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
+<!-- /wp:uagb/advanced-heading -->
 
-[/et_pb_text][/et_pb_column][et_pb_column type="1_4"][/et_pb_column][et_pb_column type="1_4"][/et_pb_column][et_pb_column type="1_4"][/et_pb_column][/et_pb_row][/et_pb_section][et_pb_section bb_built="1" fullwidth="on" specialty="off" _builder_version="3.0.92" custom_css_main_element="display: none;"][et_pb_fullwidth_header _builder_version="3.0.86" title="Frontend Web Development Related Resources" background_color="#eeeeee" text_orientation="center" header_fullscreen="off" header_scroll_down="off" image_orientation="center" background_layout="light" content_orientation="center" custom_button_two="off" button_two_icon_placement="right" custom_button_one="off" button_one_icon_placement="right" background_position="top_left" background_repeat="repeat" background_size="initial" /][/et_pb_section][et_pb_section bb_built="1" _builder_version="3.0.92" module_id="resources" custom_css_main_element="display: none;"][et_pb_row][et_pb_column type="1_4"][et_pb_text admin_label="Blogs" _builder_version="3.0.86" background_layout="light" module_alignment="left"]
+<!-- wp:uagb/post-grid {"block_id":"38580cd5-a90a-4421-bb52-c5c8076ce379","categories":"73","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"imgSize":"thumbnail","displayPostLink":false,"columns":4,"tcolumns":3,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
 
-<h3><a href="/category/blogs/">Blogs</a></h3>
-[display-posts category="blogs" tag="frontendwebdev" image_size="thumbnail" wrapper_class="display-posts-thumblisting"]
+<!-- wp:uagb/advanced-heading {"block_id":"48909807-faf2-43f9-9c3c-9f4c00d3073e","headingTag":"h3"} -->
+<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-48909807-faf2-43f9-9c3c-9f4c00d3073e"><h3 class="uagb-heading-text"><a href="/category/educational/">Creative Media Related Educational Resources</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
+<!-- /wp:uagb/advanced-heading -->
 
-[/et_pb_text][/et_pb_column][et_pb_column type="1_4"][et_pb_text admin_label="Newsletters" _builder_version="3.0.86" background_layout="light" module_alignment="left"]
+<!-- wp:uagb/post-grid {"block_id":"37a136fd-3433-4136-94a3-58374bbd530a","categories":"31","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"imgSize":"thumbnail","displayPostLink":false,"columns":4,"tcolumns":3,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
 
-<h3><a href="/category/newsletters/">Newsletters</a></h3>
-[display-posts category="newsletters" tag="frontendwebdev" image_size="thumbnail" wrapper_class="display-posts-thumblisting"]
+<!-- wp:uagb/advanced-heading {"block_id":"fdd61a2e-ce2c-4ca9-b7d6-34687b4a0e2c","headingTag":"h3"} -->
+<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-fdd61a2e-ce2c-4ca9-b7d6-34687b4a0e2c"><h3 class="uagb-heading-text"><a href="/category/other/">Other (yet-to-be-categorized) Links</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
+<!-- /wp:uagb/advanced-heading -->
 
-[/et_pb_text][/et_pb_column][et_pb_column type="1_4"][et_pb_text admin_label="Podcasts" _builder_version="3.0.86" background_layout="light" module_alignment="left"]
+<!-- wp:shortcode -->
+[display-posts category="other"  order="ASC" orderby="random" posts_per_page="999"]
+<!-- /wp:shortcode -->
 
-<h3><a href="/category/podcasts/">Podcasts</a></h3>
-[display-posts category="podcasts" tag="frontendwebdev" image_size="thumbnail" wrapper_class="display-posts-thumblisting"]
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
 
-[/et_pb_text][/et_pb_column][et_pb_column type="1_4"][et_pb_text admin_label="Books" _builder_version="3.0.86" background_layout="light" module_alignment="left"]
+<!-- wp:uagb/advanced-heading {"block_id":"be75fa5b-7dd0-4b37-b6a5-f3a2532293ac","headingTag":"h3"} -->
+<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-be75fa5b-7dd0-4b37-b6a5-f3a2532293ac"><h3 class="uagb-heading-text"><a href="https://www.creativemedia.space/tag/typography/">Typography Related Resources</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
+<!-- /wp:uagb/advanced-heading -->
 
-<h3><a href="/category/books/">Books</a></h3>
-[display-posts category="books" tag="frontendwebdev" image_size="thumbnail" wrapper_class="display-posts-thumblisting"]
+<!-- wp:uagb/post-grid {"block_id":"6d1ad05b-cb61-43a1-96c7-ad662a4c484e","categories":"45","taxonomyType":"post_tag","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"imgSize":"thumbnail","displayPostLink":false,"columns":4,"tcolumns":3,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
 
-[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row][et_pb_column type="1_4"][et_pb_text admin_label="Resources" _builder_version="3.0.86" background_layout="light" module_alignment="left"]
+<!-- wp:uagb/advanced-heading {"block_id":"139697c7-1cba-4136-872e-0f71c4a3987e","headingTag":"h3"} -->
+<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-139697c7-1cba-4136-872e-0f71c4a3987e"><h3 class="uagb-heading-text"><a href="https://www.creativemedia.space/tag/frontendwebdev/">Front-end Related Resources</a></h3><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
+<!-- /wp:uagb/advanced-heading -->
 
-<h3><a href="/category/resources/">Resources</a></h3>
-[display-posts category="resources" tag="frontendwebdev" image_size="thumbnail" wrapper_class="display-posts-thumblisting"]
-
-[/et_pb_text][/et_pb_column][et_pb_column type="1_4"][/et_pb_column][et_pb_column type="1_4"][/et_pb_column][et_pb_column type="1_4"][/et_pb_column][/et_pb_row][/et_pb_section][et_pb_section bb_built="1" fullwidth="on" specialty="off" _builder_version="3.0.92" custom_css_main_element="display: none;"][et_pb_fullwidth_header _builder_version="3.0.86" title="Print Related Resources" background_color="#eeeeee" text_orientation="center" header_fullscreen="off" header_scroll_down="off" image_orientation="center" background_layout="light" content_orientation="center" custom_button_two="off" button_two_icon_placement="right" custom_button_one="off" button_one_icon_placement="right" background_position="top_left" background_repeat="repeat" background_size="initial" /][/et_pb_section][et_pb_section bb_built="1" _builder_version="3.0.92" module_id="resources" custom_css_main_element="display: none;"][et_pb_row][et_pb_column type="1_4"][et_pb_text admin_label="Blogs" _builder_version="3.0.86" background_layout="light" module_alignment="left"]
-
-<h3><a href="/category/blogs/">Blogs</a></h3>
-[display-posts category="blogs" tag="print-design" image_size="thumbnail" wrapper_class="display-posts-thumblisting"]
-
-[/et_pb_text][/et_pb_column][et_pb_column type="1_4"][et_pb_text admin_label="Newsletters" _builder_version="3.0.86" background_layout="light" module_alignment="left"]
-
-<h3><a href="/category/newsletters/">Newsletters</a></h3>
-[display-posts category="newsletters" tag="print-design" image_size="thumbnail" wrapper_class="display-posts-thumblisting"]
-
-[/et_pb_text][/et_pb_column][et_pb_column type="1_4"][et_pb_text admin_label="Podcasts" _builder_version="3.0.86" background_layout="light" module_alignment="left"]
-
-<h3><a href="/category/podcasts/">Podcasts</a></h3>
-[display-posts category="podcasts" tag="print-design" image_size="thumbnail" wrapper_class="display-posts-thumblisting"]
-
-[/et_pb_text][/et_pb_column][et_pb_column type="1_4"][et_pb_text admin_label="Books" _builder_version="3.0.86" background_layout="light" module_alignment="left"]
-
-<h3><a href="/category/books/">Books</a></h3>
-[display-posts category="books" tag="print-design" image_size="thumbnail" wrapper_class="display-posts-thumblisting"]
-
-[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row][et_pb_column type="1_4"][et_pb_text admin_label="Resources" _builder_version="3.0.86" background_layout="light" module_alignment="left"]
-
-<h3><a href="/category/resources/">Resources</a></h3>
-[display-posts category="resources" tag="print-design" image_size="thumbnail" wrapper_class="display-posts-thumblisting"]
-
-[/et_pb_text][/et_pb_column][et_pb_column type="1_4"][/et_pb_column][et_pb_column type="1_4"][/et_pb_column][et_pb_column type="1_4"][/et_pb_column][/et_pb_row][/et_pb_section]
+<!-- wp:uagb/post-grid {"block_id":"9ac5b735-4526-4148-9b27-fe039d5e5fca","categories":"43","taxonomyType":"post_tag","postsToShow":100,"displayPostDate":false,"displayPostExcerpt":false,"displayPostAuthor":false,"displayPostComment":false,"imgSize":"thumbnail","displayPostLink":false,"columns":4,"tcolumns":3,"mcolumns":2,"orderBy":"rand","bgColor":"#ffffff","titleTag":"h4","contentPadding":10} /-->
