@@ -9,33 +9,38 @@ permalink: >
 published: true
 post_date: 2018-08-27 22:36:26
 ---
-[et_pb_section bb_built="1"][et_pb_row][et_pb_column type="4_4"][et_pb_text]
-
-<img class="aligncenter size-full wp-image-1974" src="https://www.creativemedia.space/wp-content/uploads/2018/08/inspiration-featured.gif" alt="" width="1500" height="750" />
-<h1>Design Inspiration</h1>
+<!-- wp:heading -->
 <h2>Be Inspired by Great Design and Designers</h2>
+<!-- /wp:heading -->
 
-[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row][et_pb_column type="1_2"][et_pb_text _builder_version="3.12.2"]
-
-<h3>Student projects</h3>
-[display-posts post_type="project" taxonomy="project_category" tax_term="student-project" image_size="thumbnail" wrapper_class="display-posts-thumblisting" posts_per_page="999"]
-
-[/et_pb_text][/et_pb_column][et_pb_column type="1_2"][et_pb_text _builder_version="3.12.2"]
-
+<!-- wp:heading {"level":3} -->
 <h3>Inspiration related resources</h3>
+<!-- /wp:heading -->
+
+<!-- wp:shortcode -->
 [display-posts category="inspiration" image_size="thumbnail" wrapper_class="display-posts-thumblisting" posts_per_page="999"]
+<!-- /wp:shortcode -->
 
-[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row][et_pb_column type="4_4"][et_pb_text _builder_version="3.12.2"]
+<!-- wp:heading {"level":3} -->
+<h3>Chris's Go-to Sites:</h3>
+<!-- /wp:heading -->
 
+<!-- wp:list -->
+<ul><li><a href="https://www.awwwards.com/">Awwwards</a></li><li><a href="https://onepagelove.com/">One Page Love</a></li><li><a href="https://land-book.com/">Land-book</a></li><li><a href="https://www.underconsideration.com/artofthemenu/">Art of the Menu</a></li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
 <h3>Pinterest Boards with Inspiration Examples</h3>
-<ul>
- 	<li><a href="https://www.pinterest.com/chrisgargiulo/inspiration-examples/">Chris's Inspiration Examples</a></li>
-</ul>
+<!-- /wp:heading -->
 
-[/et_pb_text][et_pb_code _builder_version="3.12.2"]&lt;a data-pin-do=&quot;embedBoard&quot; data-pin-board-width=&quot;400&quot; data-pin-scale-height=&quot;240&quot; data-pin-scale-width=&quot;80&quot; href=&quot;https://www.pinterest.com/chrisgargiulo/inspiration-examples/&quot;&gt;&lt;/a&gt;&lt;!-- [et_pb_line_break_holder] --&gt;&lt;script async defer src=&quot;https://assets.pinterest.com/js/pinit.js&quot;&gt;&lt;/script&gt;[/et_pb_code][/et_pb_column][/et_pb_row][et_pb_row][et_pb_column type="4_4"][et_pb_text _builder_version="3.12.2"]
+<!-- wp:list -->
+<ul><li><a href="https://www.pinterest.com/chrisgargiulo/inspiration-examples/">Chris's Inspiration Examples</a></li></ul>
+<!-- /wp:list -->
 
-<hr />
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
 
-Illustration credit: <a href="https://twitter.com/ninalimpi">Katerina Limpitsouni</a> via <a href="https://undraw.co">Undraw</a>
-
-[/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section]
+<!-- wp:paragraph -->
+<p>Illustration credit:&nbsp;<a href="https://twitter.com/ninalimpi">Katerina Limpitsouni</a> via <a href="https://undraw.co">Undraw</a></p>
+<!-- /wp:paragraph -->
