@@ -22,7 +22,7 @@ post_date: 2018-08-27 22:36:26
 <!-- /wp:shortcode -->
 
 <!-- wp:heading {"level":3} -->
-<h3>Chris's Go-to Sites:</h3>
+<h3>Chris's Go-to Inspiration Sites:</h3>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
