@@ -13,12 +13,20 @@ post_date: 2019-06-28 21:38:20
 <h3>Use Github Pages for your server environment</h3>
 <!-- /wp:heading -->
 
-<!-- wp:image {"id":2921} -->
-<figure class="wp-block-image"><img src="https://i1.wp.com/www.creativemedia.space/wp-content/uploads/2019/05/github-coding-illustration.gif?fit=1500%2C750&amp;ssl=1" alt="" class="wp-image-2921"/><figcaption>Illustration of a person coding on a laptop and using a git-based version control system. Original Illustrations by&nbsp;<a rel="noreferrer noopener" href="https://twitter.com/ninalimpi" target="_blank">Katerina Limpitsouni</a></figcaption></figure>
-<!-- /wp:image -->
+<!-- wp:paragraph -->
+<p><strong>GitHub</strong> (<a href="https://github.com/">github.com</a>) offers free code storage and Internet hosting service. It is a popular tool used for code collaboration and sharing, but it also offers free hosting for static sites via <strong>Github Pages</strong> (<a href="https://pages.github.com/">pages.github.com</a>).</p>
+<!-- /wp:paragraph -->
 
-<!-- wp:uagb/advanced-heading {"block_id":"096f2240-baad-4ba6-ad02-e48cb421dd43","className":"step-heading"} -->
-<div class="wp-block-uagb-advanced-heading step-heading" id="uagb-adv-heading-096f2240-baad-4ba6-ad02-e48cb421dd43"><h2 class="uagb-heading-text">Step</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text">1</p></div>
+<!-- wp:paragraph -->
+<p>In this short lesson, we are going to demonstrate how you can use <strong>Github</strong> to <em>store your code</em> (and as a "cloud" backup service), and how to use <strong>Github Pages</strong> as your <em>web server</em> (free web host). </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:uagb/advanced-heading {"block_id":"4d1fd298-101f-4f32-b144-b8c6a117006c","className":"step-heading"} -->
+<div class="wp-block-uagb-advanced-heading step-heading" id="uagb-adv-heading-4d1fd298-101f-4f32-b144-b8c6a117006c"><h2 class="uagb-heading-text">Step</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text">1</p></div>
 <!-- /wp:uagb/advanced-heading -->
 
 <!-- wp:heading -->
@@ -37,8 +45,12 @@ post_date: 2019-06-28 21:38:20
 <figure class="wp-block-image"><img src="https://creativemedia.space/wp-content/uploads/2019/06/github-login-269x300.gif" alt="" class="wp-image-2922"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:uagb/advanced-heading {"block_id":"65ee3c2b-6ece-48c0-ba36-c554aca39f1f","className":"step-heading"} -->
-<div class="wp-block-uagb-advanced-heading step-heading" id="uagb-adv-heading-65ee3c2b-6ece-48c0-ba36-c554aca39f1f"><h2 class="uagb-heading-text">Step</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text">2</p></div>
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:uagb/advanced-heading {"block_id":"3aebd9e5-93aa-4f16-ae3b-fd803d1e9c71","className":"step-heading"} -->
+<div class="wp-block-uagb-advanced-heading step-heading" id="uagb-adv-heading-3aebd9e5-93aa-4f16-ae3b-fd803d1e9c71"><h2 class="uagb-heading-text">Step</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text">2</p></div>
 <!-- /wp:uagb/advanced-heading -->
 
 <!-- wp:heading -->
@@ -65,8 +77,12 @@ post_date: 2019-06-28 21:38:20
 <figure class="wp-block-image"><img src="https://i1.wp.com/www.creativemedia.space/wp-content/uploads/2019/06/github-newrepo-repoview.gif?fit=1500%2C895&amp;ssl=1" alt="" class="wp-image-2953"/><figcaption>Your Github Pages username repo. Note the url path.</figcaption></figure>
 <!-- /wp:image -->
 
-<!-- wp:uagb/advanced-heading {"block_id":"7ce1c9be-3981-4488-9a3d-7de3ed6d5876","className":"step-heading"} -->
-<div class="wp-block-uagb-advanced-heading step-heading" id="uagb-adv-heading-7ce1c9be-3981-4488-9a3d-7de3ed6d5876"><h2 class="uagb-heading-text">Step</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text">3</p></div>
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:uagb/advanced-heading {"block_id":"fcfadfb0-307c-4125-821f-1ea1e66400a0","className":"step-heading"} -->
+<div class="wp-block-uagb-advanced-heading step-heading" id="uagb-adv-heading-fcfadfb0-307c-4125-821f-1ea1e66400a0"><h2 class="uagb-heading-text">Step</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text">3</p></div>
 <!-- /wp:uagb/advanced-heading -->
 
 <!-- wp:heading {"level":3} -->
@@ -80,3 +96,7 @@ post_date: 2019-06-28 21:38:20
 <!-- wp:list -->
 <ul><li>Launch your favorite browser (e.g. Google Chrome) then type in the url <strong>yourusername.github.io</strong> and see if the readme.md file is displaying as your home page.<ul><li>If not, you'll need to pause here and troubleshoot.</li><li>If it's working, then way to go! </li></ul></li></ul>
 <!-- /wp:list -->
+
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
