@@ -4,92 +4,36 @@ post_title: Home
 author: CMS
 post_excerpt: ""
 layout: page
-permalink: https://www.creativemedia.space/
+permalink: https://creativemedia.space/
 published: true
 post_date: 2017-08-19 03:24:38
 ---
-[et_pb_section bb_built="1" fullwidth="on" specialty="off" _builder_version="3.0.64" next_background_color="#000000"][et_pb_fullwidth_header _builder_version="3.9" title="Creative Media Learning Space" background_color="#222222" text_orientation="center" background_image="https://www.creativemedia.space/wp-content/uploads/2017/08/spaceholder-1500x1000-3x2.gif" button_one_text="Explore" button_one_url="#resources" max_width_tablet="50px" title_font="Open Sans||||||||" background_video_mp4="https://www.creativemedia.space/wp-content/uploads/2017/08/mappingspace.mp4"]
+<!-- wp:uagb/section {"block_id":"8c3eb63f-fa67-4fa6-821d-bdb44566bdf2","desktopPaddingType":"%","topPadding":12,"bottomPadding":9,"leftPadding":5,"rightPadding":5,"contentWidth":"full_width","backgroundType":"video","backgroundVideo":{"id":132,"title":"mappingspace","filename":"mappingspace.mp4","url":"http://egargiulo.com/cms/wp-content/uploads/2017/08/mappingspace.mp4","link":"http://egargiulo.com/cms/home/mappingspace/","alt":"","author":"1","description":"","caption":"","name":"mappingspace","status":"inherit","uploadedTo":74,"date":"2017-08-22T00:09:36.000Z","modified":"2017-08-22T00:09:36.000Z","menuOrder":0,"mime":"video/mp4","type":"video","subtype":"mp4","icon":"http://egargiulo.com/cms/wp-includes/images/media/video.png","dateFormatted":"August 22, 2017","nonces":{"update":"cf73039ebb","delete":"eb888962e3","edit":"635a964f63"},"editLink":"http://egargiulo.com/cms/wp-admin/post.php?post=132\u0026action=edit","meta":{"artist":false,"album":false,"bitrate":368620,"bitrate_mode":false},"authorName":"CMS","uploadedToLink":"http://egargiulo.com/cms/wp-admin/post.php?post=74\u0026action=edit","uploadedToTitle":"Home","filesizeInBytes":279473,"filesizeHumanReadable":"273 KB","context":"","width":1498,"height":316,"fileLength":"0:06","fileLengthHumanReadable":"0 minutes, 6 seconds","image":{"src":"http://egargiulo.com/cms/wp-includes/images/media/video.png","width":48,"height":64},"thumb":{"src":"http://egargiulo.com/cms/wp-includes/images/media/video.png","width":48,"height":64},"compat":{"item":"\u003cinput type=\u0022hidden\u0022 name=\u0022attachments[132][menu_order]\u0022 value=\u00220\u0022 /\u003e\u003cp class=\u0022media-types media-types-required-info\u0022\u003eRequired fields are marked \u003cspan class=\u0022required\u0022\u003e*\u003c/span\u003e\u003c/p\u003e\n\t\t\t\u003ctable class=\u0022compat-attachment-fields\u0022\u003e\t\t\u003ctr class='compat-field-enable-media-replace'\u003e\t\t\t\u003cth scope='row' class='label'\u003e\u003clabel for='attachments-132-enable-media-replace'\u003e\u003cspan class='alignleft'\u003eReplace media\u003c/span\u003e\u003cbr class='clear' /\u003e\u003c/label\u003e\u003c/th\u003e\n\t\t\t\u003ctd class='field'\u003e\u003cp\u003e\u003ca class='button-secondary'href=\u0022http://egargiulo.com/cms/wp-admin/upload.php?page=enable-media-replace%2Fenable-media-replace.php\u0026amp;action=media_replace\u0026amp;attachment_id=132\u0026amp;_wpnonce=c329b81da8\u0022\u003eUpload a new file\u003c/a\u003e\u003c/p\u003e\u003cp class='help'\u003eTo replace the current file, click the link and upload a replacement.\u003c/p\u003e\u003c/td\u003e\n\t\t\u003c/tr\u003e\n\u003c/table\u003e","meta":""},"acf_errors":false},"backgroundVideoOpacity":0,"backgroundVideoColor":"#000000","className":"hero"} -->
+<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-video hero" id="uagb-section-8c3eb63f-fa67-4fa6-821d-bdb44566bdf2"><div class="uagb-section__overlay"></div><div class="uagb-section__video-wrap"><video src="http://egargiulo.com/cms/wp-content/uploads/2017/08/mappingspace.mp4" autoplay loop muted></video></div><div class="uagb-section__inner-wrap"><!-- wp:html -->
+<h1>CREATIVE MEDIA SPACE</h1>
+<!-- /wp:html -->
 
-An Online Learning Center with Resources for Web Designers and Front-end Web Developers
+<!-- wp:html -->
+<p>Resources for creative media artists and designers.</p>
+<!-- /wp:html --></div></section>
+<!-- /wp:uagb/section -->
 
-[/et_pb_fullwidth_header][/et_pb_section][et_pb_section bb_built="1" _builder_version="3.0.85" module_id="resources" prev_background_color="#000000" next_background_color="#000000" global_module="619"][et_pb_row global_parent="619" _builder_version="3.0.75"][et_pb_column type="4_4"][et_pb_text admin_label="Lessons" global_parent="619" _builder_version="3.12.2" module_alignment="left"]
+<!-- wp:spacer {"height":46} -->
+<div style="height:46px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
 
-<h3>Lessons</h3>
-[display-posts post_type="post" category="lessons" image_size="thumbnail" wrapper_class="display-posts-thumblisting wrapping" order="ASC" orderby="menu_order" posts_per_page="999"]
+<!-- wp:heading {"align":"center","className":"narrow-centered"} -->
+<h2 style="text-align:center" class="narrow-centered">Learning Resources</h2>
+<!-- /wp:heading -->
 
-[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row global_parent="619" _builder_version="3.0.75"][et_pb_column type="1_4"][et_pb_text admin_label="Assignments" global_parent="619" _builder_version="3.9" module_alignment="left"]
+<!-- wp:paragraph {"className":"margin-centered"} -->
+<p class="margin-centered"><strong>CreativeMedia.space</strong> is an <em>online learning space</em> of helpful resources and curated lists of creative media related sites that are continually being updated. Designed for life-long students of creative media, you'll find recommended blogs to follow, podcasts to listen to, books to read, and newsletters. You'll also find a growing range of educational resources, including topic-specific lessons, assignments, and exercises. More courses are coming soon. </p>
+<!-- /wp:paragraph -->
 
-<h3><a href="/category/assignment/">Assignments</a></h3>
-[display-posts post_type="post" category="assignment" image_size="thumbnail" wrapper_class="display-posts-thumblisting" order="ASC" orderby="menu_order" posts_per_page="999"]
+<!-- wp:uagb/buttons {"block_id":"3ff558c3-b91a-4741-8ffe-8448e058bbc1","buttons":[{"label":"Explore all Resources","link":"/resources/","target":"_self","size":"","vPadding":10,"hPadding":14,"borderWidth":1,"borderRadius":2,"borderStyle":"solid","borderHColor":"#333","hColor":"#333","hBackground":"","sizeType":"px","sizeMobile":"","sizeTablet":"","lineHeight":"","lineHeightType":"em","lineHeightMobile":"","lineHeightTablet":""},{"label":"Take a Course","link":"/courses/","target":"_self","size":"","vPadding":10,"hPadding":14,"borderWidth":1,"borderRadius":2,"borderStyle":"solid","borderHColor":"#333","hColor":"#333","hBackground":"","sizeType":"px","sizeMobile":"","sizeTablet":"","lineHeight":"","lineHeightType":"em","lineHeightMobile":"","lineHeightTablet":""}]} -->
+<div class="wp-block-uagb-buttons uagb-buttons__outer-wrap" id="uagb-buttons-3ff558c3-b91a-4741-8ffe-8448e058bbc1"><div class="uagb-buttons__wrap"><div class="uagb-buttons-repeater-0 uagb-button__wrapper"><a class="uagb-button__link" href="/resources/" rel="noopener noreferrer" target="_self">Explore all Resources</a></div><div class="uagb-buttons-repeater-1 uagb-button__wrapper"><a class="uagb-button__link" href="/courses/" rel="noopener noreferrer" target="_self">Take a Course</a></div></div></div>
+<!-- /wp:uagb/buttons -->
 
-[/et_pb_text][/et_pb_column][et_pb_column type="1_4"][et_pb_text admin_label="Exercises" global_parent="619" _builder_version="3.9" module_alignment="left"]
-
-<h3><a href="/category/exercise/">Exercises</a></h3>
-[display-posts post_type="post" category="exercise" image_size="thumbnail" wrapper_class="display-posts-thumblisting" order="ASC" orderby="menu_order" posts_per_page="999"]
-
-[/et_pb_text][/et_pb_column][et_pb_column type="1_4"][et_pb_text admin_label="Student Projects" global_parent="44" _builder_version="3.12.2" module_alignment="left"]
-
-<h3><a href="/project_category/student-project/">Student Projects</a></h3>
-[display-posts post_type="project" taxonomy="project_category" tax_term="student-project" image_size="thumbnail" wrapper_class="display-posts-thumblisting" posts_per_page="999"]
-
-[/et_pb_text][/et_pb_column][et_pb_column type="1_4"][et_pb_text admin_label="Featured" global_parent="619" _builder_version="3.9" module_alignment="left"]
-
-<h3><a href="/category/featured/">Featured</a></h3>
-[display-posts category="featured" image_size="thumbnail" wrapper_class="display-posts-thumblisting" posts_per_page="999"]
-
-[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row global_parent="619" background_position="top_left" background_repeat="repeat" background_size="initial"][et_pb_column type="1_4"][et_pb_text admin_label="Books" global_parent="619" _builder_version="3.0.92" background_layout="light" module_alignment="left"]
-
-<h3><a href="/category/books/">Books</a></h3>
-[display-posts category="books" image_size="thumbnail" wrapper_class="display-posts-thumblisting" posts_per_page="999"]
-
-[/et_pb_text][/et_pb_column][et_pb_column type="1_4"][et_pb_text admin_label="People" global_parent="619" _builder_version="3.9" module_alignment="left"]
-
-<h3><a href="/category/people/">People</a></h3>
-[display-posts category="people" image_size="thumbnail" wrapper_class="display-posts-thumblisting" posts_per_page="999"]
-
-[/et_pb_text][/et_pb_column][et_pb_column type="1_4"][et_pb_text admin_label="Blogs" global_parent="619" _builder_version="3.0.92" background_layout="light" module_alignment="left"]
-
-<h3><a href="/category/blogs/">Blogs</a></h3>
-[display-posts category="blogs" image_size="thumbnail" wrapper_class="display-posts-thumblisting" posts_per_page="999"]
-
-[/et_pb_text][/et_pb_column][et_pb_column type="1_4"][et_pb_text admin_label="Podcasts" global_parent="619" _builder_version="3.0.92" background_layout="light" module_alignment="left"]
-
-<h3><a href="/category/podcasts/">Podcasts</a></h3>
-[display-posts category="podcasts" image_size="thumbnail" wrapper_class="display-posts-thumblisting" posts_per_page="999"]
-
-[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row global_parent="619" background_position="top_left" background_repeat="repeat" background_size="initial"][et_pb_column type="1_4"][et_pb_text admin_label="Newsletters" global_parent="619" _builder_version="3.0.92" background_layout="light" module_alignment="left"]
-
-<h3><a href="/category/newsletters/">Newsletters</a></h3>
-[display-posts category="newsletters" image_size="thumbnail" wrapper_class="display-posts-thumblisting" posts_per_page="999"]
-
-[/et_pb_text][/et_pb_column][et_pb_column type="1_4"][et_pb_text admin_label="Stock Photos" global_parent="619" _builder_version="3.0.92" background_layout="light" module_alignment="left"]
-
-<h3><a href="/category/stock-photography/">Stock Photography</a></h3>
-[display-posts category="stock-photography" image_size="thumbnail" wrapper_class="display-posts-thumblisting" posts_per_page="999"]
-
-[/et_pb_text][/et_pb_column][et_pb_column type="1_4"][et_pb_text admin_label="Front-end Tool" global_parent="619" _builder_version="3.9" background_layout="light" module_alignment="left"]
-
-<h3><a href="/category/people/">Front-end Tools</a></h3>
-[display-posts category="front-end-tools" image_size="thumbnail" wrapper_class="display-posts-thumblisting" posts_per_page="999"]
-
-[/et_pb_text][/et_pb_column][et_pb_column type="1_4"][et_pb_text admin_label="Inspiration" global_parent="619" _builder_version="3.0.92" background_layout="light" module_alignment="left"]
-
-<h3><a href="/category/people/">Inspiration</a></h3>
-[display-posts category="inspiration" image_size="thumbnail" wrapper_class="display-posts-thumblisting" posts_per_page="999"]
-
-[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row global_parent="619" background_position="top_left" background_repeat="repeat" background_size="initial"][et_pb_column type="1_4"][et_pb_text admin_label="Educational" global_parent="619" _builder_version="3.0.92" background_layout="light" module_alignment="left"]
-
-<h3><a href="/category/people/">Educational</a></h3>
-[display-posts category="educational" image_size="thumbnail" wrapper_class="display-posts-thumblisting" posts_per_page="999"]
-
-[/et_pb_text][/et_pb_column][et_pb_column type="1_4"][/et_pb_column][et_pb_column type="1_4"][/et_pb_column][et_pb_column type="1_4"][/et_pb_column][/et_pb_row][et_pb_row global_parent="619" background_position="top_left" background_repeat="repeat" background_size="initial"][et_pb_column type="4_4"][et_pb_text admin_label="Other" global_parent="619" _builder_version="3.0.106" background_layout="light" module_alignment="left"]
-
-<h3><a href="/category/other/">Others (uncategorized)</a></h3>
-[display-posts category="other" posts_per_page="999"]
-
-[/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section][et_pb_section bb_built="1" fullwidth="off" specialty="off" _builder_version="3.0.64" prev_background_color="#000000"][et_pb_row][et_pb_column type="4_4"][et_pb_text _builder_version="3.0.86" background_layout="light" text_orientation="center" module_alignment="center"]
-
-<h2>See Something Missing?</h2>
-<a class="small-button" href="https://www.creativemedia.space/submit/">Add a New Resource Now</a>
-
-[/et_pb_text][/et_pb_column][/et_pb_row][/et_pb_section]
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
