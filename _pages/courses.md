@@ -33,7 +33,7 @@ post_date: 2017-11-08 22:28:53
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"className":"margin-centered"} -->
-<p class="margin-centered">All courses on CreativeMedia.space are free to view, but to do things like track your progress, take quizzes, and earn badges, you must <a href="/login">log in</a>. New users need to <a href="http://egargiulo.com/cms/register">register</a>. Existing users can view their courses and manage their profiles via their <a href="/account">account</a>.</p>
+<p class="margin-centered">All courses on CreativeMedia.space are free to view, but to do things like track your progress, take quizzes, and earn badges, you must <a href="/login">log in</a>. New users need to <a href="/register">register</a>. Existing users can view their courses and manage their profiles via their <a href="/account">account</a>. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:columns {"columns":3} -->
@@ -45,7 +45,7 @@ post_date: 2017-11-08 22:28:53
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:shortcode -->
-[lifterlms_login layout="stacked" redirect="http://egargiulo.com/cms/my-dashboard/my-courses/"]
+[lifterlms_login layout="stacked" redirect="http://creative media.space/my-dashboard/my-courses/"]
 <!-- /wp:shortcode -->
 
 <!-- wp:paragraph -->
