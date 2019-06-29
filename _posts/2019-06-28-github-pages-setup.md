@@ -25,7 +25,7 @@ post_date: 2019-06-28 21:38:20
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:uagb/advanced-heading {"block_id":"4d1fd298-101f-4f32-b144-b8c6a117006c","className":"step-heading"} -->
+<!-- wp:uagb/advanced-heading {"block_id":"4d1fd298-101f-4f32-b144-b8c6a117006c","headingAlign":"left","className":"step-heading"} -->
 <div class="wp-block-uagb-advanced-heading step-heading" id="uagb-adv-heading-4d1fd298-101f-4f32-b144-b8c6a117006c"><h2 class="uagb-heading-text">Step</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text">1</p></div>
 <!-- /wp:uagb/advanced-heading -->
 
@@ -49,7 +49,7 @@ post_date: 2019-06-28 21:38:20
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:uagb/advanced-heading {"block_id":"3aebd9e5-93aa-4f16-ae3b-fd803d1e9c71","className":"step-heading"} -->
+<!-- wp:uagb/advanced-heading {"block_id":"3aebd9e5-93aa-4f16-ae3b-fd803d1e9c71","headingAlign":"left","className":"step-heading"} -->
 <div class="wp-block-uagb-advanced-heading step-heading" id="uagb-adv-heading-3aebd9e5-93aa-4f16-ae3b-fd803d1e9c71"><h2 class="uagb-heading-text">Step</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text">2</p></div>
 <!-- /wp:uagb/advanced-heading -->
 
@@ -81,7 +81,7 @@ post_date: 2019-06-28 21:38:20
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:uagb/advanced-heading {"block_id":"fcfadfb0-307c-4125-821f-1ea1e66400a0","className":"step-heading"} -->
+<!-- wp:uagb/advanced-heading {"block_id":"fcfadfb0-307c-4125-821f-1ea1e66400a0","headingAlign":"left","className":"step-heading"} -->
 <div class="wp-block-uagb-advanced-heading step-heading" id="uagb-adv-heading-fcfadfb0-307c-4125-821f-1ea1e66400a0"><h2 class="uagb-heading-text">Step</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text">3</p></div>
 <!-- /wp:uagb/advanced-heading -->
 
