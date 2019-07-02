@@ -12,8 +12,8 @@ post_date: 2019-07-02 08:58:25
 <h1 style="text-align:center">Contests</h1>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"align":"center"} -->
-<p style="text-align:center">Below are the current running contests:</p>
+<!-- wp:paragraph {"align":"center","className":"margin-centered"} -->
+<p style="text-align:center" class="margin-centered">Below are the current running contests:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer -->
