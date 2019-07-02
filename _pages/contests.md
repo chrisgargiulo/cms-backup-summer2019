@@ -36,10 +36,6 @@ post_date: 2019-07-02 08:58:25
 <div class="wp-block-button aligncenter"><a class="wp-block-button__link" href="https://1.shortstack.com/wfLJf1">Enter / Vote in Contest #1 Now</a></div>
 <!-- /wp:button -->
 
-<!-- wp:separator -->
-<hr class="wp-block-separator"/>
-<!-- /wp:separator -->
-
 <!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
