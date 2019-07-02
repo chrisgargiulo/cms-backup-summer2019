@@ -48,17 +48,6 @@ post_date: 2019-07-02 08:58:25
 <p style="text-align:center" class="margin-centered">Enter and/or Vote in this UI Contest for the category of _____ ______ _______ ___ _ ____ ____ ____.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:html -->
-<div id='woobox-root'></div>
-<script>(function(d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id)) return;
-js = d.createElement(s); js.id = id;
-js.src = "https://woobox.com/js/plugins/woo.js";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'woobox-sdk'));</script>
-<!-- /wp:html -->
-
-<!-- wp:html -->
-<div class='woobox-offer' data-offer='22j2he'></div>
-<!-- /wp:html -->
+<!-- wp:button {"backgroundColor":"cyan-bluish-gray","align":"center"} -->
+<div class="wp-block-button aligncenter"><a class="wp-block-button__link has-background has-cyan-bluish-gray-background-color" href="">Coming Soon</a></div>
+<!-- /wp:button -->
