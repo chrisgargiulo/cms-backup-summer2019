@@ -14,7 +14,7 @@ post_date: 2019-02-12 15:49:07
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>There are several different approaches, philosophies, and models for <a href="https://creativemedia.space/web-design-dev-process/">web design and development processes</a>, such as the <a href="https://en.wikipedia.org/wiki/Waterfall_model">waterfall model</a>, <a href="https://en.wikipedia.org/wiki/Iterative_design">iterative design</a>, <a href="https://en.wikipedia.org/wiki/Iterative_and_incremental_development">incremental development</a>, and <a href="https://en.wikipedia.org/wiki/Agile_software_development">agile processes</a>. Each has played a big impact on web design and development. In this lesson, both UX and UI are addressed with a specific focus on the visual design of high fidelity mockups. </p>
+<p>There are several different approaches, philosophies, and models for <a href="https://creativemedia.space/web-design-dev-process/">web design and development processes</a>, such as the <a href="https://en.wikipedia.org/wiki/Waterfall_model">waterfall model</a>, <a href="https://en.wikipedia.org/wiki/Iterative_design">iterative design</a>, <a href="https://en.wikipedia.org/wiki/Iterative_and_incremental_development">incremental development</a>, and <a href="https://en.wikipedia.org/wiki/Agile_software_development">agile processes</a>. Each has played a big impact on web design and development over the years. In this lesson, both UX and UI are discussed with a specific focus on the visual design part of the process, specifically the UI design of high fidelity mockups. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:more -->
@@ -22,7 +22,7 @@ post_date: 2019-02-12 15:49:07
 <!-- /wp:more -->
 
 <!-- wp:paragraph -->
-<p>Before we can get to there, let's back up briefly and place this in the larger context of an iterative web design and development workflow that embraces adaptive planning, evolutionary development, and continuous improvement. Designed for speed, efficiency, and effectiveness, an iterative design process encourages rapid and flexible responses to change throughout the creative design process with continuous evaluation and improvement.</p>
+<p>Before we skip to high fidelity UI mockups, let's back up briefly and place this in the larger context of a comprehensive iterative web design and development workflow that embraces adaptive planning, evolutionary development, and continuous improvement. Designed for speed, efficiency, and effectiveness, an iterative design process encourages rapid and flexible responses to change throughout the creative design process with continuous evaluation and improvement.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
@@ -46,7 +46,11 @@ post_date: 2019-02-12 15:49:07
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Often times clients need to see (visually) a product early in the design process that will closely resemble the final product, such as high fidelity mockups. Remnants from the days of waterfall web design and development, high fidelity mockups continue to play an integral role in modern day web design and development, especially when it comes to larger budget, client-based projects with multiple team members and stakeholders. For example, once a project has been clearly defined and pre-visualized with low-fidelity wireframes and prototypes, UI designers might be tasked with exploring different visual directions via high fidelity mockups of key, important pages or components. In these cases, a common format is to do two or three rounds of high-fidelity UI mockup designs, with pauses at each round for evaluation, dialogue, client feedback, and iterative improvement. The goal is to clearly define the visual style as close as possible to the final product. Below are examples of a few ways for designers to approach this part of the overall process:</p>
+<p>Often times clients need to see (visually) a product early in the design process that will closely resemble the final product, such as high fidelity mockups. Remnants from the days of waterfall web design and development, high fidelity mockups continue to play an integral role in modern day web design and development, especially when it comes to larger budget, client-based projects with multiple team members and stakeholders. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For example, once a project has been clearly defined and pre-visualized with low-fidelity wireframes and prototypes, UI designers are often times tasked with exploring different visual directions via high fidelity mockups, especially for key, important interfaces and/or components. In these cases, a common format is to do two or three rounds of high-fidelity UI mockup designs, with pauses between each round for evaluation, dialogue, client feedback, and iterative improvement. The goal is figure out and clearly define the visual style as close as possible to the final product via multiple rounds of visual exploration. Below are examples of specific approaches this aspect of the overall iterative design process:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer -->
