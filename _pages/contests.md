@@ -16,12 +16,12 @@ post_date: 2019-07-02 08:58:25
 <div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-ab772479-3914-4095-867b-a0806a0c4f11"><h2 class="uagb-heading-text">#1</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text">UI Contest</p></div>
 <!-- /wp:uagb/advanced-heading -->
 
-<!-- wp:heading {"level":3} -->
-<h3>Category: __________</h3>
+<!-- wp:heading {"level":3,"align":"center"} -->
+<h3 style="text-align:center">Category: __________</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph -->
-<p>Enter and/or Vote in this UI Contest for the category of _____ ______ _______ ___ _ ____ ____ ____.</p>
+<!-- wp:paragraph {"align":"center"} -->
+<p style="text-align:center">Enter and/or Vote in this UI Contest for the category of _____ ______ _______ ___ _ ____ ____ ____.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:button {"align":"center"} -->
@@ -40,12 +40,12 @@ post_date: 2019-07-02 08:58:25
 <div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-f7db1d07-b56a-4031-a592-128d6d1d96a6"><h2 class="uagb-heading-text">#2</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text">Ui Contest</p></div>
 <!-- /wp:uagb/advanced-heading -->
 
-<!-- wp:heading {"level":3} -->
-<h3>Category: __________</h3>
+<!-- wp:heading {"level":3,"align":"center"} -->
+<h3 style="text-align:center">Category: __________</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph -->
-<p>Enter and/or Vote in this UI Contest for the category of _____ ______ _______ ___ _ ____ ____ ____.</p>
+<!-- wp:paragraph {"align":"center"} -->
+<p style="text-align:center">Enter and/or Vote in this UI Contest for the category of _____ ______ _______ ___ _ ____ ____ ____.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
