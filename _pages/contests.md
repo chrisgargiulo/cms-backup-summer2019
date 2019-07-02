@@ -8,9 +8,17 @@ permalink: https://creativemedia.space/contests/
 published: true
 post_date: 2019-07-02 08:58:25
 ---
-<!-- wp:paragraph -->
-<p>Below are the current running contests:</p>
+<!-- wp:heading {"level":1,"align":"center"} -->
+<h1 style="text-align:center">Contests</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p style="text-align:center">Below are the current running contests:</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
 
 <!-- wp:uagb/advanced-heading {"block_id":"ab772479-3914-4095-867b-a0806a0c4f11","className":"step-heading"} -->
 <div class="wp-block-uagb-advanced-heading step-heading" id="uagb-adv-heading-ab772479-3914-4095-867b-a0806a0c4f11"><h2 class="uagb-heading-text">UI Contest</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text">#1</p></div>
