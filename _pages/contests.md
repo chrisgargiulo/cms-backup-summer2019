@@ -13,7 +13,7 @@ post_date: 2019-07-02 08:58:25
 <!-- /wp:paragraph -->
 
 <!-- wp:uagb/advanced-heading {"block_id":"ab772479-3914-4095-867b-a0806a0c4f11","className":"step-heading"} -->
-<div class="wp-block-uagb-advanced-heading step-heading" id="uagb-adv-heading-ab772479-3914-4095-867b-a0806a0c4f11"><h2 class="uagb-heading-text">UI Contest</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text">1</p></div>
+<div class="wp-block-uagb-advanced-heading step-heading" id="uagb-adv-heading-ab772479-3914-4095-867b-a0806a0c4f11"><h2 class="uagb-heading-text">UI Contest</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text">#1</p></div>
 <!-- /wp:uagb/advanced-heading -->
 
 <!-- wp:heading {"level":3,"align":"center","className":"narrow-centered"} -->
@@ -37,7 +37,7 @@ post_date: 2019-07-02 08:58:25
 <!-- /wp:spacer -->
 
 <!-- wp:uagb/advanced-heading {"block_id":"f7db1d07-b56a-4031-a592-128d6d1d96a6","className":"step-heading"} -->
-<div class="wp-block-uagb-advanced-heading step-heading" id="uagb-adv-heading-f7db1d07-b56a-4031-a592-128d6d1d96a6"><h2 class="uagb-heading-text">UI Contest</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text">2</p></div>
+<div class="wp-block-uagb-advanced-heading step-heading" id="uagb-adv-heading-f7db1d07-b56a-4031-a592-128d6d1d96a6"><h2 class="uagb-heading-text">UI Contest</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text">#2</p></div>
 <!-- /wp:uagb/advanced-heading -->
 
 <!-- wp:heading {"level":3,"align":"center","className":"narrow-centered"} -->
