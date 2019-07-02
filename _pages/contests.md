@@ -13,7 +13,7 @@ post_date: 2019-07-02 08:58:25
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","className":"margin-centered"} -->
-<p style="text-align:center" class="margin-centered">Below are the current running contests:</p>
+<p style="text-align:center" class="margin-centered">Enter to Win!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer -->
