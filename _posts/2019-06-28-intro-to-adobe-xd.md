@@ -34,7 +34,7 @@ post_date: 2019-06-28 22:04:33
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li><strong>Speed</strong> (performance) - unlike Photoshop and Illustrator, XD is super light, lean, and fast. It may not have all of the features of Photoshop and Illustrator, but it loads quickly and runs fast with little-to-no lag/latency.</li><li><strong>Artboards</strong> - at the core of XD are artboards, the rectangular canvases upon which designers can design interfaces. These artboards are designed for interfaces that can easily grow (e.g. vertically at the bottom, when more room for content is added).</li><li><strong>Vector and Raster</strong> support - similar to Illustrator, it is vector-based but has support for raster images, much like the web.</li><li><strong>Symbols/Components/Assets/Libraries</strong> - similar to InDesign, it has built-in support for things like components, shared symbols, and pre-defined colors and text styles. These are setup in such a way that aligns well with the coding of websites.</li><li><strong>Prototypes</strong> - similar to Invision App, Adobe XD has built-in prototyping out-of-the-box. Simply connect artboards by dragging handle connectors. Protoypes also have built in scrolling support with customizable viewport heights.</li><li><strong>So much more!</strong> - the above list is just scratching the surface of all that Adobe XD can do. It can be used for style guides, client documentation, presentations, sharing prototypes with support for commenting, shared assets and libraries, animation, and a lot more.</li></ul>
+<ul><li><strong>Speed</strong> (performance) - unlike Photoshop and Illustrator, XD is super light, lean, and fast. It may not have all of the features of Photoshop and Illustrator, but it loads quickly and runs fast with little-to-no lag/latency.</li><li><strong>Artboards</strong> - at the core of XD are artboards, the rectangular canvases upon which designers can design interfaces. These artboards are designed for interfaces that can easily grow (e.g. vertically at the bottom, when more room for content is added).</li><li><strong>Vector and Raster</strong> support - similar to Illustrator, it is vector-based but has support for raster images, much like the web.</li><li><strong>Components/Assets/Libraries</strong> - similar to InDesign, it has built-in support for things like components (previously named symbols), pre-defined colors, and text styles. These are setup in such a way that aligns well with the coding of websites.</li><li><strong>Prototypes</strong> - similar to Invision App, Adobe XD has built-in prototyping out-of-the-box. Simply connect artboards by dragging handle connectors. Protoypes also have built in scrolling support with customizable viewport heights.</li><li><strong>So much more!</strong> - the above list is just scratching the surface of all that Adobe XD can do. It can be used for style guides, client documentation, presentations, sharing prototypes with support for commenting, shared assets and libraries, animation, and a lot more.</li></ul>
 <!-- /wp:list -->
 
 <!-- wp:separator -->
@@ -61,8 +61,8 @@ post_date: 2019-06-28 22:04:33
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:uagb/advanced-heading {"block_id":"10c15fe9-e311-4ebe-a6e1-80b84aa1fee0","className":"step-heading"} -->
-<div class="wp-block-uagb-advanced-heading step-heading" id="uagb-adv-heading-10c15fe9-e311-4ebe-a6e1-80b84aa1fee0"><h2 class="uagb-heading-text">Step</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text">1</p></div>
+<!-- wp:uagb/advanced-heading {"block_id":"63dfebee-c65b-4bae-8fb7-e6d8c7073709","className":"step-heading"} -->
+<div class="wp-block-uagb-advanced-heading step-heading" id="uagb-adv-heading-63dfebee-c65b-4bae-8fb7-e6d8c7073709"><h2 class="uagb-heading-text">Step</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text">1</p></div>
 <!-- /wp:uagb/advanced-heading -->
 
 <!-- wp:heading {"level":3} -->
@@ -117,8 +117,8 @@ post_date: 2019-06-28 22:04:33
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:uagb/advanced-heading {"block_id":"cb9c032b-5512-43b0-9fe9-3c194601baae","className":"step-heading"} -->
-<div class="wp-block-uagb-advanced-heading step-heading" id="uagb-adv-heading-cb9c032b-5512-43b0-9fe9-3c194601baae"><h2 class="uagb-heading-text">Step</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text">2</p></div>
+<!-- wp:uagb/advanced-heading {"block_id":"e672c5d8-2df0-4900-857a-57a01d151315","className":"step-heading"} -->
+<div class="wp-block-uagb-advanced-heading step-heading" id="uagb-adv-heading-e672c5d8-2df0-4900-857a-57a01d151315"><h2 class="uagb-heading-text">Step</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text">2</p></div>
 <!-- /wp:uagb/advanced-heading -->
 
 <!-- wp:heading {"level":3} -->
@@ -165,8 +165,8 @@ post_date: 2019-06-28 22:04:33
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:uagb/advanced-heading {"block_id":"adf50690-3170-4088-ad35-242e822b6126","className":"step-heading"} -->
-<div class="wp-block-uagb-advanced-heading step-heading" id="uagb-adv-heading-adf50690-3170-4088-ad35-242e822b6126"><h2 class="uagb-heading-text">Step</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text">3</p></div>
+<!-- wp:uagb/advanced-heading {"block_id":"9315f4ff-556f-46d3-b4df-dd304baa8336","className":"step-heading"} -->
+<div class="wp-block-uagb-advanced-heading step-heading" id="uagb-adv-heading-9315f4ff-556f-46d3-b4df-dd304baa8336"><h2 class="uagb-heading-text">Step</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text">3</p></div>
 <!-- /wp:uagb/advanced-heading -->
 
 <!-- wp:heading {"level":3} -->
@@ -197,8 +197,8 @@ post_date: 2019-06-28 22:04:33
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:uagb/advanced-heading {"block_id":"26ab86b0-ceb7-44c4-910e-59a49ce28dd6","className":"step-heading"} -->
-<div class="wp-block-uagb-advanced-heading step-heading" id="uagb-adv-heading-26ab86b0-ceb7-44c4-910e-59a49ce28dd6"><h2 class="uagb-heading-text">Step</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text">4</p></div>
+<!-- wp:uagb/advanced-heading {"block_id":"3a397fc4-ee04-4afd-a17e-75c316a2337e","className":"step-heading"} -->
+<div class="wp-block-uagb-advanced-heading step-heading" id="uagb-adv-heading-3a397fc4-ee04-4afd-a17e-75c316a2337e"><h2 class="uagb-heading-text">Step</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text">4</p></div>
 <!-- /wp:uagb/advanced-heading -->
 
 <!-- wp:heading {"level":3} -->
@@ -233,8 +233,8 @@ post_date: 2019-06-28 22:04:33
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:uagb/advanced-heading {"block_id":"176e7262-ad38-40b6-8c90-d1154b293df9","className":"step-heading"} -->
-<div class="wp-block-uagb-advanced-heading step-heading" id="uagb-adv-heading-176e7262-ad38-40b6-8c90-d1154b293df9"><h2 class="uagb-heading-text">Step</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text">5</p></div>
+<!-- wp:uagb/advanced-heading {"block_id":"27b91f52-d178-4cf5-98c6-8675b5007dca","className":"step-heading"} -->
+<div class="wp-block-uagb-advanced-heading step-heading" id="uagb-adv-heading-27b91f52-d178-4cf5-98c6-8675b5007dca"><h2 class="uagb-heading-text">Step</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text">5</p></div>
 <!-- /wp:uagb/advanced-heading -->
 
 <!-- wp:heading {"level":3} -->
