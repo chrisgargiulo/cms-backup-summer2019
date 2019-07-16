@@ -25,7 +25,7 @@ post_date: 2019-07-02 08:58:25
 <!-- /wp:uagb/advanced-heading -->
 
 <!-- wp:heading {"level":3,"align":"center","className":"narrow-centered"} -->
-<h3 style="text-align:center" class="narrow-centered">Category: Wonderful Working Website</h3>
+<h3 style="text-align:center" class="narrow-centered">Wonderful Working Website</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","className":"margin-centered"} -->
@@ -51,7 +51,7 @@ post_date: 2019-07-02 08:58:25
 <!-- /wp:uagb/advanced-heading -->
 
 <!-- wp:heading {"level":3,"align":"center","className":"narrow-centered"} -->
-<h3 style="text-align:center" class="narrow-centered">Category: Wonderful Warm Weather</h3>
+<h3 style="text-align:center" class="narrow-centered">Wonderful Warm Weather</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","className":"margin-centered"} -->
@@ -69,7 +69,7 @@ post_date: 2019-07-02 08:58:25
 <!-- /wp:uagb/advanced-heading -->
 
 <!-- wp:heading {"level":3,"align":"center","className":"narrow-centered"} -->
-<h3 style="text-align:center" class="narrow-centered">Category: Wonderful, Weird, &amp; Wacky</h3>
+<h3 style="text-align:center" class="narrow-centered">Wonderful, Weird, &amp; Wacky</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","className":"margin-centered"} -->
@@ -87,7 +87,7 @@ post_date: 2019-07-02 08:58:25
 <!-- /wp:uagb/advanced-heading -->
 
 <!-- wp:heading {"level":3,"align":"center","className":"narrow-centered"} -->
-<h3 style="text-align:center" class="narrow-centered">Category: Wow! Wow! Wow!</h3>
+<h3 style="text-align:center" class="narrow-centered">Wow! Wow! Wow!</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","className":"margin-centered"} -->
