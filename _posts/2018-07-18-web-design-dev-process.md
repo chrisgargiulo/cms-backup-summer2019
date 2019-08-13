@@ -10,11 +10,11 @@ published: true
 post_date: 2018-07-18 18:42:01
 ---
 <!-- wp:heading {"level":3} -->
-<h3>A User Centered Design Approach</h3>
+<h3>A User-Centered Design Approach</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>The web design and development process shares several resemblances to the&nbsp;<a href="https://en.wikipedia.org/wiki/Software_development_process">software development process</a>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/Systems_development_life_cycle">systems development life cycle</a>&nbsp;and is influenced by the rich history and practice of related fields such as systems engineering and information science. Building upon several influential methodologies and preceding models, the following is a simple 5-Step process specifically for web design and development that embraces&nbsp;<a href="https://en.wikipedia.org/wiki/User-centered_design">User-centered design (UCD)</a>and consists of 5 D’s:&nbsp;<em>Define, Draft, Design, Develop, and Deliver.</em></p>
+<p>The web design and development process shares several resemblances to the <a href="https://en.wikipedia.org/wiki/Software_development_process">software development process</a> and <a href="https://en.wikipedia.org/wiki/Systems_development_life_cycle">systems development life cycle</a> and is influenced by the rich history and practice of related fields such as systems engineering and information science. Building upon several influential methodologies and preceding models, the following is a simple 5-Step process specifically for web design and development that embraces <a href="https://en.wikipedia.org/wiki/User-centered_design">User-centered design (UCD)</a> and consists of 5 D’s: <em>Define, Draft, Design, Develop, and Deliver.</em></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
@@ -27,7 +27,7 @@ post_date: 2018-07-18 18:42:01
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
-<h3>A Simplified 5-Step Process:</h3>
+<h3>A Simplified 5-Phase Process:</h3>
 <!-- /wp:heading -->
 
 <!-- wp:list {"ordered":true} -->
@@ -43,7 +43,7 @@ post_date: 2018-07-18 18:42:01
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>One of the most notable approaches that predates web development is the&nbsp;<a href="https://en.wikipedia.org/wiki/Waterfall_model">waterfall model</a>: a linear, step-by-step sequential process that is inherently flawed due to the fact that, like a waterfall, it only flows in one direction. Broken down into five phases, a typical waterfall process entails defining system requirements, designing, implementing/coding, testing, and maintaining.</p>
+<p>One of the most notable approaches that predate web development is the <a href="https://en.wikipedia.org/wiki/Waterfall_model">waterfall model</a>: a linear, step-by-step sequential process that is inherently flawed due to the fact that, like a waterfall, it only flows in one direction. Broken down into five phases, a typical waterfall process entails defining system requirements, designing, implementing/coding, testing, and maintaining.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1379,"align":"center"} -->
