@@ -10,7 +10,7 @@ published: true
 post_date: 2018-07-18 18:42:01
 ---
 <!-- wp:heading {"level":3} -->
-<h3>A User Centered Design Approach</h3>
+<h3>A User-Centered Design Approach</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
