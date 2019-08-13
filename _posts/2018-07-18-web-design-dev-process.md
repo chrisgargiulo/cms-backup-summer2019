@@ -27,7 +27,7 @@ post_date: 2018-07-18 18:42:01
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
-<h3>A Simplified 5-Step Process:</h3>
+<h3>A Simplified 5-Phase Process:</h3>
 <!-- /wp:heading -->
 
 <!-- wp:list {"ordered":true} -->
