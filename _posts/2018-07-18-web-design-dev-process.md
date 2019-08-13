@@ -43,7 +43,7 @@ post_date: 2018-07-18 18:42:01
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>One of the most notable approaches that predates web development is the&nbsp;<a href="https://en.wikipedia.org/wiki/Waterfall_model">waterfall model</a>: a linear, step-by-step sequential process that is inherently flawed due to the fact that, like a waterfall, it only flows in one direction. Broken down into five phases, a typical waterfall process entails defining system requirements, designing, implementing/coding, testing, and maintaining.</p>
+<p>One of the most notable approaches that predate web development is the <a href="https://en.wikipedia.org/wiki/Waterfall_model">waterfall model</a>: a linear, step-by-step sequential process that is inherently flawed due to the fact that, like a waterfall, it only flows in one direction. Broken down into five phases, a typical waterfall process entails defining system requirements, designing, implementing/coding, testing, and maintaining.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1379,"align":"center"} -->
