@@ -5,7 +5,7 @@ author: CMS
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.creativemedia.space/interaction-design-foundation/
+  https://creativemedia.space/interaction-design-foundation/
 published: true
 post_date: 2018-01-15 20:16:13
 ---

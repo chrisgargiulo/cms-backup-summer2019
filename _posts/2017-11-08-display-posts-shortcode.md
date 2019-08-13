@@ -1,11 +1,11 @@
 ---
 ID: 702
 post_title: Display Posts Shortcode
-author: John Doe
+author: CMS
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.creativemedia.space/display-posts-shortcode/
+  https://creativemedia.space/display-posts-shortcode/
 published: true
 post_date: 2017-11-08 23:21:20
 ---

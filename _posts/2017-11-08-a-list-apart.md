@@ -5,7 +5,7 @@ author: CMS
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.creativemedia.space/a-list-apart/
+  https://creativemedia.space/a-list-apart/
 published: true
 post_date: 2017-11-08 19:16:07
 ---

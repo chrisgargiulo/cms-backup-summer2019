@@ -1,11 +1,11 @@
 ---
 ID: 812
 post_title: Design Matters with Debbie Millman
-author: kimil
+author: CMS
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.creativemedia.space/design-matters-with-debbie-millman/
+  https://creativemedia.space/design-matters-with-debbie-millman/
 published: true
 post_date: 2017-12-02 20:11:43
 ---

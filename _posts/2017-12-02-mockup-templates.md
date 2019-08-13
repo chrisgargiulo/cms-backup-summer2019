@@ -1,11 +1,11 @@
 ---
 ID: 809
 post_title: Mockup Templates
-author: skgoo
+author: CMS
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.creativemedia.space/mockup-templates/
+  https://creativemedia.space/mockup-templates/
 published: true
 post_date: 2017-12-02 03:34:46
 ---

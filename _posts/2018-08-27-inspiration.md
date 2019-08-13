@@ -1,11 +1,10 @@
 ---
 ID: 1972
 post_title: Inspiration
-author: GUI Louie
+author: CMS
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.creativemedia.space/inspiration/
+permalink: https://creativemedia.space/inspiration/
 published: true
 post_date: 2018-08-27 22:36:26
 ---

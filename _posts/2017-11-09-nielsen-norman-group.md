@@ -5,7 +5,7 @@ author: CMS
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.creativemedia.space/nielsen-norman-group/
+  https://creativemedia.space/nielsen-norman-group/
 published: true
 post_date: 2017-11-09 06:48:53
 ---
@@ -15,8 +15,8 @@ An Evidence-Based User Experience Research, Training, and Consulting Firm. NN/g 
 </div>
 <h3>People at NN/G:</h3>
 <ul>
- 	<li><a href="https://www.creativemedia.space/jakob-nielson/">Jakob Nielsen</a></li>
- 	<li><a href="https://www.creativemedia.space/donald-norman/">Donald Norman</a></li>
+ 	<li><a href="http://egargiulo.com/cms/jakob-nielson/">Jakob Nielsen</a></li>
+ 	<li><a href="http://egargiulo.com/cms/donald-norman/">Donald Norman</a></li>
 </ul>
 <h3>Articles at NN/G:</h3>
 <ul>

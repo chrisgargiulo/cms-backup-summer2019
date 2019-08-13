@@ -1,11 +1,11 @@
 ---
 ID: 234
 post_title: 'Don&#8217;t Make Me Think by Steve Krug'
-author: John Doe
+author: CMS
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.creativemedia.space/dont-make-me-think-by-steve-krug/
+  https://creativemedia.space/dont-make-me-think-by-steve-krug/
 published: true
 post_date: 2017-08-23 23:36:34
 ---

@@ -1,11 +1,11 @@
 ---
 ID: 768
 post_title: Golden Ratio Typography Calculator
-author: lummelis
+author: CMS
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.creativemedia.space/golden-ratio-typography-calculator/
+  https://creativemedia.space/golden-ratio-typography-calculator/
 published: true
 post_date: 2017-11-20 21:03:35
 ---

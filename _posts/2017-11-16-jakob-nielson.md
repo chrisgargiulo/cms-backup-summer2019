@@ -1,11 +1,11 @@
 ---
 ID: 747
 post_title: Jakob Nielson
-author: John Doe
+author: CMS
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.creativemedia.space/jakob-nielson/
+  https://creativemedia.space/jakob-nielson/
 published: true
 post_date: 2017-11-16 21:44:09
 ---

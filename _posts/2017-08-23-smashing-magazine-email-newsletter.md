@@ -1,11 +1,11 @@
 ---
 ID: 215
 post_title: Smashing Magazine Email Newsletter
-author: John Doe
+author: CMS
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.creativemedia.space/smashing-magazine-email-newsletter/
+  https://creativemedia.space/smashing-magazine-email-newsletter/
 published: true
 post_date: 2017-08-23 22:28:43
 ---

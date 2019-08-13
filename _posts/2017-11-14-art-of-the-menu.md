@@ -1,11 +1,11 @@
 ---
 ID: 732
 post_title: Art of the Menu
-author: fakemann
+author: CMS
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.creativemedia.space/art-of-the-menu/
+  https://creativemedia.space/art-of-the-menu/
 published: true
 post_date: 2017-11-14 23:58:55
 ---

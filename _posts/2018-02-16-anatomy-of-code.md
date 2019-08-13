@@ -5,7 +5,7 @@ author: CMS
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.creativemedia.space/anatomy-of-code/
+  https://creativemedia.space/anatomy-of-code/
 published: true
 post_date: 2018-02-16 19:00:15
 ---

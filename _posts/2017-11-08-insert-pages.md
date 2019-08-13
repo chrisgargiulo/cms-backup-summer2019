@@ -1,11 +1,11 @@
 ---
 ID: 703
 post_title: Insert Pages
-author: John Doe
+author: CMS
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.creativemedia.space/insert-pages/
+  https://creativemedia.space/insert-pages/
 published: true
 post_date: 2017-11-08 23:24:55
 ---

@@ -5,7 +5,7 @@ author: CMS
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.creativemedia.space/am-i-responsive/
+  https://creativemedia.space/am-i-responsive/
 published: true
 post_date: 2017-11-16 15:09:07
 ---

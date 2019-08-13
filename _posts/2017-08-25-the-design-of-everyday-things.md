@@ -5,7 +5,7 @@ author: CMS
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.creativemedia.space/the-design-of-everyday-things/
+  https://creativemedia.space/the-design-of-everyday-things/
 published: true
 post_date: 2017-08-25 23:02:22
 ---

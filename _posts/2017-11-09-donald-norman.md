@@ -5,7 +5,7 @@ author: CMS
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.creativemedia.space/donald-norman/
+  https://creativemedia.space/donald-norman/
 published: true
 post_date: 2017-11-09 06:44:17
 ---

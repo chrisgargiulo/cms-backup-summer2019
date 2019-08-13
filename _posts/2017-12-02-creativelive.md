@@ -1,11 +1,11 @@
 ---
 ID: 813
 post_title: CreativeLive
-author: kimil
+author: CMS
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.creativemedia.space/creativelive/
+  https://creativemedia.space/creativelive/
 published: true
 post_date: 2017-12-02 20:20:42
 ---

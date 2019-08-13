@@ -1,11 +1,11 @@
 ---
 ID: 815
 post_title: Premium Pixels
-author: kimil
+author: CMS
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.creativemedia.space/premium-pixels/
+  https://creativemedia.space/premium-pixels/
 published: true
 post_date: 2017-12-02 20:40:22
 ---

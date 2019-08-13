@@ -1,11 +1,10 @@
 ---
-ID: 42
-post_title: Memberships
+ID: 6
+post_title: Membership Catalog
 author: CMS
 post_excerpt: ""
 layout: page
-permalink: >
-  https://www.creativemedia.space/memberships/
+permalink: https://creativemedia.space/memberships/
 published: true
-post_date: 2017-08-19 02:13:19
+post_date: 2019-08-03 19:40:18
 ---

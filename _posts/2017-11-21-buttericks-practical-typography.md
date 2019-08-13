@@ -1,11 +1,11 @@
 ---
 ID: 789
 post_title: Butterick’s Practical Typography
-author: mahsa
+author: CMS
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.creativemedia.space/buttericks-practical-typography/
+  https://creativemedia.space/buttericks-practical-typography/
 published: true
 post_date: 2017-11-21 23:19:07
 ---

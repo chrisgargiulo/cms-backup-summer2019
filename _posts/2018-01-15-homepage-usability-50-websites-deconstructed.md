@@ -5,7 +5,7 @@ author: CMS
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.creativemedia.space/homepage-usability-50-websites-deconstructed/
+  https://creativemedia.space/homepage-usability-50-websites-deconstructed/
 published: true
 post_date: 2018-01-15 19:22:51
 ---

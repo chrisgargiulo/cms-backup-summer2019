@@ -1,11 +1,11 @@
 ---
 ID: 704
 post_title: SiteOrigin Page Builder
-author: John Doe
+author: CMS
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.creativemedia.space/siteorigin-page-builder/
+  https://creativemedia.space/siteorigin-page-builder/
 published: true
 post_date: 2017-11-08 23:27:02
 ---

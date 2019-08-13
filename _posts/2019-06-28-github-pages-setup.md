@@ -42,7 +42,7 @@ post_date: 2019-06-28 21:38:20
 <!-- /wp:list -->
 
 <!-- wp:image {"id":2922} -->
-<figure class="wp-block-image"><img src="https://creativemedia.space/wp-content/uploads/2019/06/github-login-269x300.gif" alt="" class="wp-image-2922"/></figure>
+<figure class="wp-block-image"><img src="https://a3b30d40-a508-11e8-b072-36d63035d715.app.getshifter.io:23347/wp-content/uploads/2019/06/github-login-269x300.gif" alt="" class="wp-image-2922"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:spacer -->
@@ -66,7 +66,7 @@ post_date: 2019-06-28 21:38:20
 <!-- /wp:list -->
 
 <!-- wp:image {"id":2930} -->
-<figure class="wp-block-image"><img src="https://creativemedia.space/wp-content/uploads/2019/05/github-newrepo-300x269.gif" alt="Github new repo" class="wp-image-2930"/></figure>
+<figure class="wp-block-image"><img src="https://a3b30d40-a508-11e8-b072-36d63035d715.app.getshifter.io:23347/wp-content/uploads/2019/05/github-newrepo-300x269.gif" alt="Github new repo" class="wp-image-2930"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":2951} -->

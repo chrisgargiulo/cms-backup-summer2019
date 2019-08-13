@@ -1,7 +1,7 @@
 ---
 ID: 1942
 post_title: Intro to Git using Github
-author: Front-end Freddy
+author: CMS
 post_excerpt: ""
 layout: post
 permalink: >

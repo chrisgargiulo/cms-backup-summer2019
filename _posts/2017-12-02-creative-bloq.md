@@ -1,11 +1,11 @@
 ---
 ID: 814
 post_title: Creative Bloq
-author: kimil
+author: CMS
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.creativemedia.space/creative-bloq/
+  https://creativemedia.space/creative-bloq/
 published: true
 post_date: 2017-12-02 20:32:22
 ---

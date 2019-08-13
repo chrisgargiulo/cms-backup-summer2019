@@ -5,7 +5,7 @@ author: CMS
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.creativemedia.space/u-s-web-design-standards/
+  https://creativemedia.space/u-s-web-design-standards/
 published: true
 post_date: 2017-12-21 23:52:38
 ---

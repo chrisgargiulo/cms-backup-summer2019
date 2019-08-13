@@ -4,8 +4,7 @@ post_title: Jen Simmons
 author: CMS
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.creativemedia.space/jen-simmons/
+permalink: https://creativemedia.space/jen-simmons/
 published: true
 post_date: 2019-06-19 19:13:27
 ---

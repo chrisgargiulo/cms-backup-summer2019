@@ -4,8 +4,7 @@ post_title: Brad Frost
 author: CMS
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.creativemedia.space/brad-frost/
+permalink: https://creativemedia.space/brad-frost/
 published: true
 post_date: 2019-06-19 19:33:51
 ---

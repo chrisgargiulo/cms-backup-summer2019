@@ -1,11 +1,11 @@
 ---
 ID: 716
 post_title: I Love Typography
-author: John Doe
+author: CMS
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.creativemedia.space/i-love-typography/
+  https://creativemedia.space/i-love-typography/
 published: true
 post_date: 2017-11-09 00:28:31
 ---

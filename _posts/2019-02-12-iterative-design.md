@@ -14,7 +14,7 @@ post_date: 2019-02-12 15:49:07
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>There are several different approaches, philosophies, and models for <a href="https://creativemedia.space/web-design-dev-process/">web design and development processes</a>, such as the <a href="https://en.wikipedia.org/wiki/Waterfall_model">waterfall model</a>, <a href="https://en.wikipedia.org/wiki/Iterative_design">iterative design</a>, <a href="https://en.wikipedia.org/wiki/Iterative_and_incremental_development">incremental development</a>, and <a href="https://en.wikipedia.org/wiki/Agile_software_development">agile processes</a>. Each has played a big impact on web design and development over the years. In this lesson, both UX and UI are discussed with a specific focus on the visual design part of the process, specifically the UI design of high fidelity mockups. </p>
+<p>There are several different approaches, philosophies, and models for <a href="https://a3b30d40-a508-11e8-b072-36d63035d715.app.getshifter.io:23347/web-design-dev-process/">web design and development processes</a>, such as the <a href="https://en.wikipedia.org/wiki/Waterfall_model">waterfall model</a>, <a href="https://en.wikipedia.org/wiki/Iterative_design">iterative design</a>, <a href="https://en.wikipedia.org/wiki/Iterative_and_incremental_development">incremental development</a>, and <a href="https://en.wikipedia.org/wiki/Agile_software_development">agile processes</a>. Each has played a big impact on web design and development over the years. In this lesson, both UX and UI are discussed with a specific focus on the visual design part of the process, specifically the UI design of high fidelity mockups. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:more -->

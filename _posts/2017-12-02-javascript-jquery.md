@@ -1,11 +1,11 @@
 ---
 ID: 803
 post_title: 'Javascript &#038; JQuery'
-author: skgoo
+author: CMS
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.creativemedia.space/javascript-jquery/
+  https://creativemedia.space/javascript-jquery/
 published: true
 post_date: 2017-12-02 03:25:15
 ---

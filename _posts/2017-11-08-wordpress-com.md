@@ -1,11 +1,11 @@
 ---
 ID: 701
 post_title: WordPress.com
-author: John Doe
+author: CMS
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.creativemedia.space/wordpress-com/
+  https://creativemedia.space/wordpress-com/
 published: true
 post_date: 2017-11-08 23:17:44
 ---

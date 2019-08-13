@@ -1,11 +1,11 @@
 ---
 ID: 232
 post_title: Smashing Magazine
-author: John Doe
+author: CMS
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.creativemedia.space/smashing-magazine/
+  https://creativemedia.space/smashing-magazine/
 published: true
 post_date: 2017-08-23 23:30:40
 ---

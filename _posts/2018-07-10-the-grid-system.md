@@ -5,7 +5,7 @@ author: CMS
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.creativemedia.space/the-grid-system/
+  https://creativemedia.space/the-grid-system/
 published: true
 post_date: 2018-07-10 22:23:56
 ---

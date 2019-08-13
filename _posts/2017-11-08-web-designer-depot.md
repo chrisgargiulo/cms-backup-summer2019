@@ -5,7 +5,7 @@ author: CMS
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.creativemedia.space/web-designer-depot/
+  https://creativemedia.space/web-designer-depot/
 published: true
 post_date: 2017-11-08 20:28:07
 ---

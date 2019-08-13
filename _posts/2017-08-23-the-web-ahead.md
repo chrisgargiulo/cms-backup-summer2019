@@ -1,11 +1,11 @@
 ---
 ID: 211
 post_title: The Web Ahead
-author: John Doe
+author: CMS
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.creativemedia.space/the-web-ahead/
+  https://creativemedia.space/the-web-ahead/
 published: true
 post_date: 2017-08-23 21:57:25
 ---

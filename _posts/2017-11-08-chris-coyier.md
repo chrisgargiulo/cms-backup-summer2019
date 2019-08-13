@@ -1,11 +1,11 @@
 ---
 ID: 695
 post_title: Chris Coyier
-author: John Doe
+author: CMS
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.creativemedia.space/chris-coyier/
+  https://creativemedia.space/chris-coyier/
 published: true
 post_date: 2017-11-08 23:01:43
 ---

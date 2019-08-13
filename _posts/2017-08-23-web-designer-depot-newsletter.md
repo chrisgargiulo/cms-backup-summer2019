@@ -1,11 +1,11 @@
 ---
 ID: 218
 post_title: Web Designer Depot Newsletter
-author: John Doe
+author: CMS
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.creativemedia.space/web-designer-depot-newsletter/
+  https://creativemedia.space/web-designer-depot-newsletter/
 published: true
 post_date: 2017-08-23 22:34:39
 ---

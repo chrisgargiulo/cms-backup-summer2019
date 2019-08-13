@@ -1,7 +1,7 @@
 ---
 ID: 1771
 post_title: Quality Assurance Checklist
-author: Front-end Freddy
+author: CMS
 post_excerpt: ""
 layout: post
 permalink: >

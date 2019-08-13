@@ -1,11 +1,11 @@
 ---
 ID: 784
 post_title: Animated Flexbox
-author: lochabay
+author: CMS
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.creativemedia.space/animated-flexbox/
+  https://creativemedia.space/animated-flexbox/
 published: true
 post_date: 2017-11-21 01:04:18
 ---
