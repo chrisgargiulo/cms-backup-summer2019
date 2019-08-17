@@ -9,8 +9,7 @@ permalink: >
 published: true
 post_date: 2018-08-19 17:28:34
 ---
-<em>Organizing Styles: Using SASS Partials for a Modular CSS Setup</em>
-<h3>Summary</h3>
+<h3>Organizing Styles: Using SASS Partials for a Modular CSS Setup</h3>
 How you choose to organize your styles can affect your efficiency as a front-end developer (how long it takes you to write code? how much code do you re-use from project to project? ), your ability to manage complex projects and work with others (how readable is your code? how easily can others understand it?), and how fast your site loads (how how much of that code is actually needed? do you always make time to refactor and optimize your code?).
 
 This may not be a big concern for small static brochure sites, but as you work on larger, more complex projects with multiple designers/developers, style organization becomes essential. One solution is to separate your styles into smaller parts (partials) and then use a preprocessor (SASS) to compile the styles into one style.css.
