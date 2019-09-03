@@ -18,6 +18,8 @@ There are several ways to learn SASS and multiple different approaches to settin
 
 <hr />
 
+<h3></h3>
+<h3><a href="https://github.com/kccnma/sassybase"><img class="aligncenter wp-image-3933 size-full" src="https://creativemedia.space/wp-content/uploads/sassybase-home-devices-vector.png" alt="Sassy Base" width="1200" height="600" /></a></h3>
 <!-- wp:heading -->
 <h2>Hands-on Activity #1: Sassy Sitebase From Scratch</h2>
 <!-- /wp:heading --> <!-- wp:paragraph -->
@@ -43,8 +45,12 @@ In this hands-on activity (initially done as an in-class exercise in 2018), we w
 <h4>Instructions:</h4>
 All instructions are embedded into the content of the "Sassy Base" site that you will be building (see the instuctions on the home page).
 <ul>
- 	<li>Sassy Base repo: https://github.com/kccnma/sassybase</li>
- 	<li>Sassy base demo: https://kccnma.github.io/sassybase/</li>
+ 	<li>Sassy Base repo: <a href="https://github.com/kccnma/sassybase">https://github.com/kccnma/sassybase</a></li>
+ 	<li>Sassy base demo: <a href="https://kccnma.github.io/sassybase/">https://kccnma.github.io/sassybase/</a></li>
+</ul>
+Examples:
+<ul>
+ 	<li>John Doe's 2018 Sassy Base: <a href="https://johndoenma.github.io/sassy-base/">https://johndoenma.github.io/sassy-base/</a></li>
 </ul>
 
 <hr />
