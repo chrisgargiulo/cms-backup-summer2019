@@ -50,7 +50,7 @@ post_date: 2019-06-28 22:04:33
 <!-- /wp:image -->
 
 <!-- wp:heading -->
-<h2>Hands-on Activity: Design a Simple Home Page</h2>
+<h2>Summer 2019 Hands-on Activity: Design a Simple Home Page</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -61,8 +61,8 @@ post_date: 2019-06-28 22:04:33
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:uagb/advanced-heading {"block_id":"63dfebee-c65b-4bae-8fb7-e6d8c7073709","className":"step-heading"} -->
-<div class="wp-block-uagb-advanced-heading step-heading" id="uagb-adv-heading-63dfebee-c65b-4bae-8fb7-e6d8c7073709"><h2 class="uagb-heading-text">Step</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text">1</p></div>
+<!-- wp:uagb/advanced-heading {"block_id":"a4c2acd5-7172-410e-a0b1-2cf347d36d69","className":"step-heading"} -->
+<div class="wp-block-uagb-advanced-heading step-heading" id="uagb-adv-heading-a4c2acd5-7172-410e-a0b1-2cf347d36d69"><h2 class="uagb-heading-text">Step</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text">1</p></div>
 <!-- /wp:uagb/advanced-heading -->
 
 <!-- wp:heading {"level":3} -->
@@ -117,8 +117,8 @@ post_date: 2019-06-28 22:04:33
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:uagb/advanced-heading {"block_id":"e672c5d8-2df0-4900-857a-57a01d151315","className":"step-heading"} -->
-<div class="wp-block-uagb-advanced-heading step-heading" id="uagb-adv-heading-e672c5d8-2df0-4900-857a-57a01d151315"><h2 class="uagb-heading-text">Step</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text">2</p></div>
+<!-- wp:uagb/advanced-heading {"block_id":"1ebc9cf0-3644-4679-992c-ccc102347e60","className":"step-heading"} -->
+<div class="wp-block-uagb-advanced-heading step-heading" id="uagb-adv-heading-1ebc9cf0-3644-4679-992c-ccc102347e60"><h2 class="uagb-heading-text">Step</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text">2</p></div>
 <!-- /wp:uagb/advanced-heading -->
 
 <!-- wp:heading {"level":3} -->
@@ -165,8 +165,8 @@ post_date: 2019-06-28 22:04:33
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:uagb/advanced-heading {"block_id":"9315f4ff-556f-46d3-b4df-dd304baa8336","className":"step-heading"} -->
-<div class="wp-block-uagb-advanced-heading step-heading" id="uagb-adv-heading-9315f4ff-556f-46d3-b4df-dd304baa8336"><h2 class="uagb-heading-text">Step</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text">3</p></div>
+<!-- wp:uagb/advanced-heading {"block_id":"8b74b2dd-a6fa-4152-ac4b-571e6a7d56e1","className":"step-heading"} -->
+<div class="wp-block-uagb-advanced-heading step-heading" id="uagb-adv-heading-8b74b2dd-a6fa-4152-ac4b-571e6a7d56e1"><h2 class="uagb-heading-text">Step</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text">3</p></div>
 <!-- /wp:uagb/advanced-heading -->
 
 <!-- wp:heading {"level":3} -->
@@ -197,8 +197,8 @@ post_date: 2019-06-28 22:04:33
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:uagb/advanced-heading {"block_id":"3a397fc4-ee04-4afd-a17e-75c316a2337e","className":"step-heading"} -->
-<div class="wp-block-uagb-advanced-heading step-heading" id="uagb-adv-heading-3a397fc4-ee04-4afd-a17e-75c316a2337e"><h2 class="uagb-heading-text">Step</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text">4</p></div>
+<!-- wp:uagb/advanced-heading {"block_id":"11937f15-722f-41b8-8f2d-1b1de4d34f77","className":"step-heading"} -->
+<div class="wp-block-uagb-advanced-heading step-heading" id="uagb-adv-heading-11937f15-722f-41b8-8f2d-1b1de4d34f77"><h2 class="uagb-heading-text">Step</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text">4</p></div>
 <!-- /wp:uagb/advanced-heading -->
 
 <!-- wp:heading {"level":3} -->
@@ -233,8 +233,8 @@ post_date: 2019-06-28 22:04:33
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:uagb/advanced-heading {"block_id":"27b91f52-d178-4cf5-98c6-8675b5007dca","className":"step-heading"} -->
-<div class="wp-block-uagb-advanced-heading step-heading" id="uagb-adv-heading-27b91f52-d178-4cf5-98c6-8675b5007dca"><h2 class="uagb-heading-text">Step</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text">5</p></div>
+<!-- wp:uagb/advanced-heading {"block_id":"c0f500ba-3fd9-455e-a3a6-ccd044f09588","className":"step-heading"} -->
+<div class="wp-block-uagb-advanced-heading step-heading" id="uagb-adv-heading-c0f500ba-3fd9-455e-a3a6-ccd044f09588"><h2 class="uagb-heading-text">Step</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text">5</p></div>
 <!-- /wp:uagb/advanced-heading -->
 
 <!-- wp:heading {"level":3} -->
