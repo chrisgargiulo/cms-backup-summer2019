@@ -46,12 +46,16 @@ post_date: 2018-08-19 17:25:39
 <!-- /wp:list -->
 
 <!-- wp:heading {"level":4} -->
-<h4>Steps:</h4>
+<h4>Three Parts of this Lesson:</h4>
 <!-- /wp:heading -->
 
 <!-- wp:list {"ordered":true} -->
-<ol><li><strong>Install Git</strong><br><em>Make sure that you have Git installed on your local machine</em></li><li><strong>Setup a Repo</strong><br><em>Create your first repository on Github from scratch</em></li><li><strong>Daily Git Workflows</strong><br><em>Update an existing repository on Github</em></li></ol>
+<ol><li><strong>Installing Git</strong><br><em>Make sure that you have Git installed on your local machine</em></li><li><strong>Setting up a Repo</strong><br><em>Learn how to create repositories on Github from scratch (in the browser)</em></li><li><strong>Learning About Daily Git Workflows</strong><br><em>Understand the process of cloning, pulling, editing, commiting, and pushing using git via CLI. to remotely update an existing repository on Github</em></li></ol>
 <!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
 <figure class="wp-block-image"><img src="https://imgs.xkcd.com/comics/git_2x.png" alt="Git Comic"/><figcaption>Git comic from <a href="https://xkcd.com/1597/">xkcd</a></figcaption></figure>
@@ -65,8 +69,8 @@ post_date: 2018-08-19 17:25:39
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:uagb/advanced-heading {"block_id":"c20ca385-beb4-4e1d-9a97-35ce92947424","className":"step-heading"} -->
-<div class="wp-block-uagb-advanced-heading step-heading" id="uagb-adv-heading-c20ca385-beb4-4e1d-9a97-35ce92947424"><h2 class="uagb-heading-text">Part</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text">1</p></div>
+<!-- wp:uagb/advanced-heading {"block_id":"fcc23917-0395-4d17-8377-d0a5476c00e8","className":"step-heading"} -->
+<div class="wp-block-uagb-advanced-heading step-heading" id="uagb-adv-heading-fcc23917-0395-4d17-8377-d0a5476c00e8"><h2 class="uagb-heading-text">Part</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text">1</p></div>
 <!-- /wp:uagb/advanced-heading -->
 
 <!-- wp:heading -->
@@ -86,9 +90,7 @@ post_date: 2018-08-19 17:25:39
 <!-- /wp:code -->
 
 <!-- wp:list {"ordered":true} -->
-<ol><li>If you already have git installed, move on to Step #2. If you do not have git installed, follow the <a href="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git">installation instructions on the Git web site</a>.
-<ul><li>Another option: you can also download&nbsp;<a href="https://desktop.github.com/">GitHub Desktop</a>, a GUI client, that will automatically install git on your computer. However, I do not recommend using GitHUb Desktop to learn Git. Instead, I recommend using the command line interface (CLI), which we will do in this lesson.</li></ul>
-</li></ol>
+<ol><li>If you already have git installed, you can move on to PArt #2. If you do not have git installed, follow the <a href="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git">installation instructions on the Git web site</a>. <ul><li>Another option: you can also download <a href="https://desktop.github.com/">GitHub Desktop</a>, a GUI client, that will automatically install git on your computer. However, I do not recommend using GitHub Desktop to learn Git. Instead, I recommend using the command line interface (CLI), which we will do in this lesson. </li></ul></li></ol>
 <!-- /wp:list -->
 
 <!-- wp:separator -->
@@ -99,8 +101,8 @@ post_date: 2018-08-19 17:25:39
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:uagb/advanced-heading {"block_id":"3a92800d-693e-477b-b0c8-d15b797b711c","className":"step-heading"} -->
-<div class="wp-block-uagb-advanced-heading step-heading" id="uagb-adv-heading-3a92800d-693e-477b-b0c8-d15b797b711c"><h2 class="uagb-heading-text">Part</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text">2</p></div>
+<!-- wp:uagb/advanced-heading {"block_id":"ddf8b758-075a-495f-aea7-aaa789d5dfe7","className":"step-heading"} -->
+<div class="wp-block-uagb-advanced-heading step-heading" id="uagb-adv-heading-ddf8b758-075a-495f-aea7-aaa789d5dfe7"><h2 class="uagb-heading-text">Part</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text">2</p></div>
 <!-- /wp:uagb/advanced-heading -->
 
 <!-- wp:heading -->
@@ -131,12 +133,21 @@ $ git config --global user.email johndoe@example.com</code></pre>
 $ git config --global user.email</code></pre>
 <!-- /wp:code -->
 
-<!-- wp:list -->
-<ul><li>Create a repository<br>A repository is essentially a main project folder, designed to organize single projects. Each can contain multiple sub folders and files. All repositories should have a README, a default file for each repository with information about the project. GitHub makes it easy to add one whenever you create a new repository using your browser (via github.com). It also offers other common options such as adding a .gitignore file (which some beginners find challenging to to create locally) along with license options.
-&nbsp;
-<ol><li>In the upper right corner, click + and then select "New Repository"</li><li>Name your repository “hello-world”</li><li>Write a short description</li><li>Select Initialize this repository with a README</li></ol>
-</li></ul>
+<!-- wp:heading {"level":4} -->
+<h4>Create your repositories on Github.com via your browser</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>A <strong>repository</strong> is essentially a main project folder, designed to organize single projects. Each can contain multiple sub folders and files. All repositories should have a README, a default file for each repository with information about the project. GitHub makes it easy to add one whenever you create a new repository using your browser (via github.com). It also offers other common options such as adding a .gitignore file (which some beginners find challenging to create locally) along with license options.   </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>In the upper right corner, click + and then select "New Repository"</li><li>Name your repository whatever you want (e.g. “hello-world”)</li><li>Write a short description</li><li>Select Initialize this repository with a README </li><li>Optional: create a .gitignore file (this can always be edited or created later)</li></ol>
 <!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
 
 <!-- wp:separator -->
 <hr class="wp-block-separator"/>
@@ -146,8 +157,8 @@ $ git config --global user.email</code></pre>
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:uagb/advanced-heading {"block_id":"f0da8e9b-d9b3-4137-814f-fca0be6042c8","className":"step-heading"} -->
-<div class="wp-block-uagb-advanced-heading step-heading" id="uagb-adv-heading-f0da8e9b-d9b3-4137-814f-fca0be6042c8"><h2 class="uagb-heading-text">Part</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text">4</p></div>
+<!-- wp:uagb/advanced-heading {"block_id":"af1244ec-b07e-4e84-becf-76827f7cb3c5","className":"step-heading"} -->
+<div class="wp-block-uagb-advanced-heading step-heading" id="uagb-adv-heading-af1244ec-b07e-4e84-becf-76827f7cb3c5"><h2 class="uagb-heading-text">Part</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text">3</p></div>
 <!-- /wp:uagb/advanced-heading -->
 
 <!-- wp:heading -->
@@ -158,16 +169,48 @@ $ git config --global user.email</code></pre>
 <p><em>Use Git (e.g. GitHub) as part of your daily practice</em></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":4} -->
-<h4>#1 Daily Workflow for a <strong>New</strong> Project</h4>
+<!-- wp:paragraph -->
+<p>Below are several different scenarios and processes for how you might use git as part of your daily workflow and what some of the more common commands might be.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
+
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3} -->
+<h3>#1 Daily Workflow for a <strong>New</strong> Project</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><em> (if this is your first time working on locally, or you previously deleted your local folder and need to set it up again)</em><br>Via command line, navigate to your a target parent directory</p>
+<p><em> (if this is your first time working on locally, or you previously deleted your local folder and need to set it up again.) </em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>NOTE: <em>This workflow assumes that you already have a repo created on Github and you now want to clone it locally to start editing it</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Via command line, navigate to your target parent directory (the folder where you will want to clone your github repo <em>into</em>)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:code -->
 <pre class="wp-block-code"><code lang="bash" class="language-bash">$ cd targetparentdirectory</code></pre>
+<!-- /wp:code -->
+
+<!-- wp:paragraph -->
+<p>For example, some developers use the desktop and many found lessons will use the desktop for demo purposes. It doesn't matter where you choose to save your project folders because this is a personal choice. Plus, you can always move them later. For demo purposes, let's use the desktop.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:code -->
+<pre class="wp-block-code"><code lang="bash" class="language-bash">$ cd desktop</code></pre>
 <!-- /wp:code -->
 
 <!-- wp:paragraph -->
@@ -180,16 +223,19 @@ $ dir // for PC users</code></pre>
 <!-- /wp:code -->
 
 <!-- wp:paragraph -->
-<p>Clone the directory to your repo on github (tip: copy/paste the url path to the repo via your browser, e.g. https://github.com/username/reponame/)</p>
+<p>Once you feel confident that you are in the correct place (e.g. the desktop), the next step is to clone the repo from GitHub. Clone the directory to your repo on GitHub (tip: copy/paste the url path to the repo via your browser, e.g. https://github.com/username/reponame/)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:code -->
 <pre class="wp-block-code"><code lang="bash" class="language-bash">$ git clone &lt;path-to-repository></code></pre>
 <!-- /wp:code -->
 
+<!-- wp:paragraph -->
+<p>Example:</p>
+<!-- /wp:paragraph -->
+
 <!-- wp:code -->
-<pre class="wp-block-code"><code lang="bash" class="language-bash">// Example:
-// $ git clone https://github.com/johndoenma/hello-world</code></pre>
+<pre class="wp-block-code"><code lang="bash" class="language-bash">$ git clone https://github.com/johndoenma/hello-world</code></pre>
 <!-- /wp:code -->
 
 <!-- wp:paragraph -->
@@ -198,6 +244,14 @@ $ dir // for PC users</code></pre>
 
 <!-- wp:code -->
 <pre class="wp-block-code"><code lang="bash" class="language-bash">$ cd projectfolder</code></pre>
+<!-- /wp:code -->
+
+<!-- wp:paragraph -->
+<p>Example:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:code -->
+<pre class="wp-block-code"><code lang="bash" class="language-bash">$ cd hello-world</code></pre>
 <!-- /wp:code -->
 
 <!-- wp:paragraph -->
@@ -222,16 +276,28 @@ $ dir // for PC users</code></pre>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li>For this initial "hello world" lesson, open your IDE (editor of choice) and edit the README.md file, then save it.</li><li>After you have made a change to your README.md file, move on the the Daily Workflow steps below for <em>when you are done for the day</em>.</li></ul>
+<ul><li>For an initial "hello world" lesson (Your first Github repo), open your IDE (editor of choice) and edit the README.md file, then save it.</li><li>After you have made a change to your README.md file, move on the Daily Workflow steps below for <em>when you are done for the day</em>.</li></ul>
 <!-- /wp:list -->
 
-<!-- wp:heading {"level":4} -->
-<h4>#2 Daily Workflow for an <strong>Existing</strong> Project</h4>
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
+
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3} -->
+<h3>#2 Daily Workflow for an <strong>Existing</strong> Project</h3>
 <!-- /wp:heading -->
 
-<!-- wp:heading {"level":6} -->
-<h6><em>(if you already have a project setup and worked on it locally before)</em></h6>
-<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><em>(if you already have a project setup and worked on it locally before)</em></p>
+<!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p>Via command line, navigate to your a target parent directory</p>
@@ -273,6 +339,18 @@ $ dir // for PC users</code></pre>
 <p>You are set to go! (e.g. edit files, run gulp, etc.)</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
+
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
 <!-- wp:heading {"level":4} -->
 <h4>#3 Daily Workflow for <strong>When You are Done for the Day</strong></h4>
 <!-- /wp:heading -->
@@ -308,7 +386,11 @@ $ git push origin master</code></pre>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Congratulations, you are now up and running on github!</p>
+<p>NOTE: In recent years, code editors provide easy GUI-based workflows for version control, such as VS Code's built in support for git. Therefore some developers may not use the terminal always, especially when it can be done so quickly and easily without leaving their editor. Regardless, it is important to understand core git commands so that you understand what is happening under the hood when you commit and push your code to Github using a GUI. It will also come in handy when/if you ever run into errors or conflicts.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Congratulations, you are now up and running on GitHub!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
