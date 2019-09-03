@@ -14,7 +14,46 @@ How you choose to organize your styles can affect your efficiency as a front-end
 
 This may not be a big concern for small static brochure sites, but as you work on larger, more complex projects with multiple designers/developers, style organization becomes essential. One solution is to separate your styles into smaller parts (partials) and then use a preprocessor (SASS) to compile the styles into one style.css.
 
-In this lesson, we will work backwards: using a stylesheet for a small brochure site, we will convert a single-file CSS system into an organized multi-file SASS system. The end product, a “compiled” style.css file, should be no different than it was in the beginning. However, the new organizational system (scss folder with partials) and new workflow (using a local dev environment) will provide a faster, more efficient way to write code, a cleaner, more maintainable code base that is re-usable, and a more powerful, flexible way to export and deploy project styles.
+There are several ways to learn SASS and multiple different approaches to setting up your projects and your CSS architecture, so below are a few different ways to go about it.
+
+<hr />
+
+<!-- wp:heading -->
+<h2>Hands-on Activity #1: Sassy Sitebase From Scratch</h2>
+<!-- /wp:heading --> <!-- wp:paragraph -->
+
+In this hands-on activity (initially done as an in-class exercise in 2018), we will code a simple, single page brochure site from scratch using a multi-file SASS development system (that ebraces SASS features such as variables, partials, and nesting) to auto-generate a single-file CSS site that is ready for production. The end product, a single “compiled” style.css file, will be minified and ready for production. The new "Sassy CSS" system (a scss folder with partials) and new workflow (using a local dev environment with a pre-processor) will provide a faster, more efficient way to write cleaner, more maintainable code  that is re-usable, and a more powerful, flexible way to export and deploy project styles.
+<h4>Outcomes:</h4>
+<ul>
+ 	<li>Spin up a local web server from a dev environment (as opposed to using an IDE)</li>
+ 	<li>Auto-reload a browser whenever a file is saved without a manual refresh.</li>
+ 	<li>Auto-compile SASS (via a compiler/task manager that watches for changes)</li>
+ 	<li>Use SASS features to set up a modular style base for a small site (using SASS partials)</li>
+</ul>
+
+<hr />
+
+<h4></h4>
+<h4>Steps:</h4>
+<ol>
+ 	<li><strong>Setup a local front-end web development environment to compile SASS.</strong> In this step, we  will use a Prepros, a GUI-based front-end compiler. In another lesson, we will use Gulp.</li>
+ 	<li><strong>Establish a custom organizational file system</strong> using SASS partials that embraces best practices and strategies from popular CSS methodologies (e.g. SMACSS).</li>
+ 	<li><strong>Embrace Components</strong> by working on small, bite-sized pieces of code that will work together to form a larger, modular system consistenting of multiple SASS partial files. The new SCSS files will embrace SASS features to improve the coding experience, such as variables and nesting.</li>
+</ol>
+<h4>Instructions:</h4>
+All instructions are embedded into the content of the "Sassy Base" site that you will be building (see the instuctions on the home page).
+<ul>
+ 	<li>Sassy Base repo: https://github.com/kccnma/sassybase</li>
+ 	<li>Sassy base demo: https://kccnma.github.io/sassybase/</li>
+</ul>
+
+<hr />
+
+<h2></h2>
+<h2>Hands-on Activity #2: Convert a Static Site to a Sassy Site</h2>
+<!-- /wp:heading --> <!-- wp:paragraph -->
+
+In this hands-on activity (initially done as an in-class exercise in 2017), we will work backwards: using a stylesheet for a small brochure site, we will convert a single-file CSS system into an organized multi-file SASS system. The end product, a “compiled” style.css file, should be no different than it was in the beginning. However, the new organizational system (scss folder with partials) and new workflow (using a local dev environment) will provide a faster, more efficient way to write code, a cleaner, more maintainable code base that is re-usable, and a more powerful, flexible way to export and deploy project styles.
 <h4>Outcomes:</h4>
 <ul>
  	<li>Spin up a local web server from a dev environment (as opposed to using an IDE)</li>
