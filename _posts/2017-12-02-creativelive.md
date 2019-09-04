@@ -9,6 +9,9 @@ permalink: >
 published: true
 post_date: 2017-12-02 20:20:42
 ---
-<a href="https://www.creativelive.com"><img class="size-medium" src="https://upload.wikimedia.org/wikipedia/commons/f/f7/CreativeLive_Logo_2014.jpg" width="2600" height="1933" /></a>
+<p><a href="https://www.creativelive.com/">https://www.creativelive.com/</a></p>
+<p><a href="https://www.creativelive.com/">CreativeLive</a> is an online education platform that broadcasts live classes to an international audience. Learn something new today!</p>
 
-CreativeLive is an online education platform that broadcasts live classes to an international audience. Learn something new today!
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
