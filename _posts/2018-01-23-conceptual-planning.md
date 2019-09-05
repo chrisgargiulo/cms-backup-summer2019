@@ -57,8 +57,8 @@ post_date: 2018-01-23 14:50:07
 </li><li>List of Potential UI Components and Design Patterns</li><li>Visual and Technical Tests (as many as needed to help define the visual style)</li></ul>
 <!-- /wp:list -->
 
-<!-- wp:image {"id":1501,"align":"center"} -->
-<div class="wp-block-image"><figure class="aligncenter"><img src="http://egargiulo.com/cms/wp-content/uploads/2018/01/TheDesignProcess-visuals_Page_01.jpg" alt="" class="wp-image-1501"/></figure></div>
+<!-- wp:image {"id":3979} -->
+<figure class="wp-block-image"><img src="https://creativemedia.space/wp-content/uploads/nma_018.jpg" alt="" class="wp-image-3979"/><figcaption>Students brainstorming.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
