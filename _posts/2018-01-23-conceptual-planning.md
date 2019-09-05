@@ -161,9 +161,9 @@ post_date: 2018-01-23 14:50:07
 <ul><li>Typography studies</li><li>Color studies</li><li>Photography options</li><li>Illustration and Icon styles</li></ul>
 <!-- /wp:list -->
 
-<!-- wp:gallery {"ids":["1550","1549","1548","1547","1546","1542"],"columns":4,"linkTo":"media"} -->
-<ul class="wp-block-gallery columns-4 is-cropped"><li class="blocks-gallery-item"><figure><img data-id="1550" class="wp-image-1550"/></figure></li><li class="blocks-gallery-item"><figure><img data-id="1549" class="wp-image-1549"/></figure></li><li class="blocks-gallery-item"><figure><img data-id="1548" class="wp-image-1548"/></figure></li><li class="blocks-gallery-item"><figure><img data-id="1547" class="wp-image-1547"/></figure></li><li class="blocks-gallery-item"><figure><a href="http://egargiulo.com/cms/wp-content/uploads/2018/01/TheDesignProcess-visuals_Page_46.jpg"><img src="http://egargiulo.com/cms/wp-content/uploads/2018/01/TheDesignProcess-visuals_Page_46.jpg" alt="" data-id="1546" class="wp-image-1546"/></a></figure></li><li class="blocks-gallery-item"><figure><a href="http://egargiulo.com/cms/wp-content/uploads/2018/01/TheDesignProcess-visuals_Page_42.jpg"><img src="http://egargiulo.com/cms/wp-content/uploads/2018/01/TheDesignProcess-visuals_Page_42.jpg" alt="" data-id="1542" class="wp-image-1542"/></a></figure></li></ul>
-<!-- /wp:gallery -->
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
 
 <!-- wp:image {"id":1533,"align":"center"} -->
 <div class="wp-block-image"><figure class="aligncenter"><img src="http://egargiulo.com/cms/wp-content/uploads/2018/01/TheDesignProcess-visuals_Page_33.jpg" alt="" class="wp-image-1533"/></figure></div>
